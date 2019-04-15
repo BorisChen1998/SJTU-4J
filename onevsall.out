@@ -1,1125 +1,1125 @@
-12:40:36 p0 start
-p0 Block: 0 Iter: 0. Loss: 1.138068
-Train accuracy = 0.6654320987654321 
+22:40:54 p1 start
+p1 Block: 0 Iter: 0. Loss: 6.953784
+Train accuracy = 0.3012345679012346 
 
-p0 Block: 0 Iter: 10000. Loss: 0.221203
-Train accuracy = 0.9407407407407408 
+p1 Block: 0 Iter: 10000. Loss: 0.378507
+Train accuracy = 0.8740740740740741 
 
-p0 Block: 0 Iter: 20000. Loss: 0.138268
-Train accuracy = 0.9703703703703703 
-
-p0 Block: 0 Iter: 30000. Loss: 0.098012
-Train accuracy = 0.9901234567901235 
-
-p0 Block: 0 Iter: 40000. Loss: 0.047630
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 0 Iter: 50000. Loss: 0.019123
-Train accuracy = 0.9975308641975309 
-
-p0 Block: 0 Iter: 60000. Loss: 0.024193
-Train accuracy = 0.9987654320987654 
-
-p0 Block: 0 Iter: 70000. Loss: 0.010461
-Train accuracy = 1.0 
-
-p0 Block: 0 Iter: 80000. Loss: 0.002381
-Train accuracy = 1.0 
-
-p0 Block: 0 Iter: 90000. Loss: 0.003201
-Train accuracy = 1.0 
-
-p0 Block: 0 Test accuracy = 0.749867374005305
-p0 Block: 1 Iter: 0. Loss: 0.952261
-Train accuracy = 0.6604938271604939 
-
-p0 Block: 1 Iter: 10000. Loss: 0.210431
-Train accuracy = 0.9444444444444444 
-
-p0 Block: 1 Iter: 20000. Loss: 0.154302
-Train accuracy = 0.9753086419753086 
-
-p0 Block: 1 Iter: 30000. Loss: 0.086897
-Train accuracy = 0.9864197530864197 
-
-p0 Block: 1 Iter: 40000. Loss: 0.058439
-Train accuracy = 0.9925925925925926 
-
-p0 Block: 1 Iter: 50000. Loss: 0.040766
-Train accuracy = 0.9962962962962963 
-
-p0 Block: 1 Iter: 60000. Loss: 0.017419
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 1 Iter: 70000. Loss: 0.019808
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 1 Iter: 80000. Loss: 0.013542
-Train accuracy = 0.9975308641975309 
-
-p0 Block: 1 Iter: 90000. Loss: 0.008178
-Train accuracy = 0.9987654320987654 
-
-p0 Block: 1 Test accuracy = 0.7673740053050397
-p0 Block: 2 Iter: 0. Loss: 5.464424
-Train accuracy = 0.7283950617283951 
-
-p0 Block: 2 Iter: 10000. Loss: 0.220158
-Train accuracy = 0.9444444444444444 
-
-p0 Block: 2 Iter: 20000. Loss: 0.108375
-Train accuracy = 0.9851851851851852 
-
-p0 Block: 2 Iter: 30000. Loss: 0.059996
-Train accuracy = 0.9876543209876543 
-
-p0 Block: 2 Iter: 40000. Loss: 0.036942
-Train accuracy = 0.9962962962962963 
-
-p0 Block: 2 Iter: 50000. Loss: 0.023814
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 2 Iter: 60000. Loss: 0.013301
-Train accuracy = 1.0 
-
-p0 Block: 2 Iter: 70000. Loss: 0.012055
-Train accuracy = 1.0 
-
-p0 Block: 2 Iter: 80000. Loss: 0.007139
-Train accuracy = 1.0 
-
-p0 Block: 2 Iter: 90000. Loss: 0.004724
-Train accuracy = 1.0 
-
-p0 Block: 2 Test accuracy = 0.7541114058355438
-p0 Block: 3 Iter: 0. Loss: 1.052141
-Train accuracy = 0.445679012345679 
-
-p0 Block: 3 Iter: 10000. Loss: 0.246539
-Train accuracy = 0.9395061728395062 
-
-p0 Block: 3 Iter: 20000. Loss: 0.102759
-Train accuracy = 0.9728395061728395 
-
-p0 Block: 3 Iter: 30000. Loss: 0.093257
-Train accuracy = 0.9975308641975309 
-
-p0 Block: 3 Iter: 40000. Loss: 0.044798
-Train accuracy = 0.9975308641975309 
-
-p0 Block: 3 Iter: 50000. Loss: 0.028185
-Train accuracy = 1.0 
-
-p0 Block: 3 Iter: 60000. Loss: 0.020686
-Train accuracy = 1.0 
-
-p0 Block: 3 Iter: 70000. Loss: 0.007801
-Train accuracy = 1.0 
-
-p0 Block: 3 Iter: 80000. Loss: 0.004523
-Train accuracy = 1.0 
-
-p0 Block: 3 Iter: 90000. Loss: 0.002549
-Train accuracy = 1.0 
-
-p0 Block: 3 Test accuracy = 0.783289124668435
-p0 Block: 4 Iter: 0. Loss: 2.522741
-Train accuracy = 0.7296296296296296 
-
-p0 Block: 4 Iter: 10000. Loss: 0.182846
-Train accuracy = 0.9580246913580247 
-
-p0 Block: 4 Iter: 20000. Loss: 0.109596
-Train accuracy = 0.9864197530864197 
-
-p0 Block: 4 Iter: 30000. Loss: 0.054791
-Train accuracy = 0.9938271604938271 
-
-p0 Block: 4 Iter: 40000. Loss: 0.040349
-Train accuracy = 0.9962962962962963 
-
-p0 Block: 4 Iter: 50000. Loss: 0.020579
-Train accuracy = 1.0 
-
-p0 Block: 4 Iter: 60000. Loss: 0.007163
-Train accuracy = 1.0 
-
-p0 Block: 4 Iter: 70000. Loss: 0.007304
-Train accuracy = 0.9987654320987654 
-
-p0 Block: 4 Iter: 80000. Loss: 0.002199
-Train accuracy = 1.0 
-
-p0 Block: 4 Iter: 90000. Loss: 0.002646
-Train accuracy = 1.0 
-
-p0 Block: 4 Test accuracy = 0.7949602122015915
-p0 Block: 5 Iter: 0. Loss: 1.815097
-Train accuracy = 0.7160493827160493 
-
-p0 Block: 5 Iter: 10000. Loss: 0.275939
-Train accuracy = 0.9160493827160494 
-
-p0 Block: 5 Iter: 20000. Loss: 0.135225
-Train accuracy = 0.9617283950617284 
-
-p0 Block: 5 Iter: 30000. Loss: 0.085748
-Train accuracy = 0.9839506172839506 
-
-p0 Block: 5 Iter: 40000. Loss: 0.066797
-Train accuracy = 0.9888888888888889 
-
-p0 Block: 5 Iter: 50000. Loss: 0.041346
-Train accuracy = 0.9938271604938271 
-
-p0 Block: 5 Iter: 60000. Loss: 0.030968
-Train accuracy = 1.0 
-
-p0 Block: 5 Iter: 70000. Loss: 0.020594
-Train accuracy = 1.0 
-
-p0 Block: 5 Iter: 80000. Loss: 0.017512
-Train accuracy = 1.0 
-
-p0 Block: 5 Iter: 90000. Loss: 0.004436
-Train accuracy = 1.0 
-
-p0 Block: 5 Test accuracy = 0.7915119363395225
-p0 Block: 6 Iter: 0. Loss: 1.315868
-Train accuracy = 0.4567901234567901 
-
-p0 Block: 6 Iter: 10000. Loss: 0.223041
-Train accuracy = 0.9222222222222223 
-
-p0 Block: 6 Iter: 20000. Loss: 0.150315
-Train accuracy = 0.9530864197530864 
-
-p0 Block: 6 Iter: 30000. Loss: 0.087175
-Train accuracy = 0.991358024691358 
-
-p0 Block: 6 Iter: 40000. Loss: 0.057496
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 6 Iter: 50000. Loss: 0.036582
-Train accuracy = 1.0 
-
-p0 Block: 6 Iter: 60000. Loss: 0.018208
-Train accuracy = 1.0 
-
-p0 Block: 6 Iter: 70000. Loss: 0.020889
-Train accuracy = 1.0 
-
-p0 Block: 6 Iter: 80000. Loss: 0.012024
-Train accuracy = 1.0 
-
-p0 Block: 6 Iter: 90000. Loss: 0.010453
-Train accuracy = 1.0 
-
-p0 Block: 6 Test accuracy = 0.7358090185676393
-p0 Block: 7 Iter: 0. Loss: 11.190340
-Train accuracy = 0.2802469135802469 
-
-p0 Block: 7 Iter: 10000. Loss: 0.274467
-Train accuracy = 0.8962962962962963 
-
-p0 Block: 7 Iter: 20000. Loss: 0.172371
-Train accuracy = 0.9419753086419753 
-
-p0 Block: 7 Iter: 30000. Loss: 0.159189
-Train accuracy = 0.9790123456790123 
-
-p0 Block: 7 Iter: 40000. Loss: 0.082936
-Train accuracy = 0.9839506172839506 
-
-p0 Block: 7 Iter: 50000. Loss: 0.064203
-Train accuracy = 0.991358024691358 
-
-p0 Block: 7 Iter: 60000. Loss: 0.055969
-Train accuracy = 0.9938271604938271 
-
-p0 Block: 7 Iter: 70000. Loss: 0.051143
-Train accuracy = 0.9950617283950617 
-
-p0 Block: 7 Iter: 80000. Loss: 0.018131
-Train accuracy = 0.9962962962962963 
-
-p0 Block: 7 Iter: 90000. Loss: 0.014814
-Train accuracy = 1.0 
-
-p0 Block: 7 Test accuracy = 0.7010610079575597
-p0 Block: 8 Iter: 0. Loss: 16.419432
-Train accuracy = 0.24567901234567902 
-
-p0 Block: 8 Iter: 10000. Loss: 0.320933
-Train accuracy = 0.8641975308641975 
-
-p0 Block: 8 Iter: 20000. Loss: 0.330873
-Train accuracy = 0.8950617283950617 
-
-p0 Block: 8 Iter: 30000. Loss: 0.282702
-Train accuracy = 0.9160493827160494 
-
-p0 Block: 8 Iter: 40000. Loss: 0.194189
-Train accuracy = 0.9358024691358025 
-
-p0 Block: 8 Iter: 50000. Loss: 0.177773
-Train accuracy = 0.9407407407407408 
-
-p0 Block: 8 Iter: 60000. Loss: 0.187819
-Train accuracy = 0.9481481481481482 
-
-p0 Block: 8 Iter: 70000. Loss: 0.096111
-Train accuracy = 0.9580246913580247 
-
-p0 Block: 8 Iter: 80000. Loss: 0.133036
-Train accuracy = 0.9617283950617284 
-
-p0 Block: 8 Iter: 90000. Loss: 0.089538
-Train accuracy = 0.9629629629629629 
-
-p0 Block: 8 Test accuracy = 0.7676392572944297
-13:20:13 p0 Test accuracy = 0.7809018567639258
-12:40:36 p3 start
-p3 Block: 0 Iter: 0. Loss: 6.617472
-Train accuracy = 0.7555555555555555 
-
-p3 Block: 0 Iter: 10000. Loss: 0.248796
-Train accuracy = 0.8950617283950617 
-
-p3 Block: 0 Iter: 20000. Loss: 0.152512
-Train accuracy = 0.971604938271605 
-
-p3 Block: 0 Iter: 30000. Loss: 0.131895
-Train accuracy = 0.980246913580247 
-
-p3 Block: 0 Iter: 40000. Loss: 0.081224
-Train accuracy = 0.9925925925925926 
-
-p3 Block: 0 Iter: 50000. Loss: 0.066472
-Train accuracy = 0.9950617283950617 
-
-p3 Block: 0 Iter: 60000. Loss: 0.033317
-Train accuracy = 0.9975308641975309 
-
-p3 Block: 0 Iter: 70000. Loss: 0.017404
-Train accuracy = 0.9975308641975309 
-
-p3 Block: 0 Iter: 80000. Loss: 0.014701
-Train accuracy = 1.0 
-
-p3 Block: 0 Iter: 90000. Loss: 0.010578
-Train accuracy = 1.0 
-
-p3 Block: 0 Test accuracy = 0.7177718832891247
-p3 Block: 1 Iter: 0. Loss: 4.732449
-Train accuracy = 0.7419753086419754 
-
-p3 Block: 1 Iter: 10000. Loss: 0.146823
-Train accuracy = 0.9604938271604938 
-
-p3 Block: 1 Iter: 20000. Loss: 0.077808
-Train accuracy = 0.980246913580247 
-
-p3 Block: 1 Iter: 30000. Loss: 0.047401
-Train accuracy = 1.0 
-
-p3 Block: 1 Iter: 40000. Loss: 0.038607
-Train accuracy = 0.9950617283950617 
-
-p3 Block: 1 Iter: 50000. Loss: 0.021615
-Train accuracy = 1.0 
-
-p3 Block: 1 Iter: 60000. Loss: 0.007216
-Train accuracy = 1.0 
-
-p3 Block: 1 Iter: 70000. Loss: 0.010297
-Train accuracy = 1.0 
-
-p3 Block: 1 Iter: 80000. Loss: 0.006425
-Train accuracy = 1.0 
-
-p3 Block: 1 Iter: 90000. Loss: 0.001903
-Train accuracy = 1.0 
-
-p3 Block: 1 Test accuracy = 0.6482758620689655
-p3 Block: 2 Iter: 0. Loss: 1.473444
-Train accuracy = 0.7777777777777778 
-
-p3 Block: 2 Iter: 10000. Loss: 0.172776
-Train accuracy = 0.9444444444444444 
-
-p3 Block: 2 Iter: 20000. Loss: 0.139447
-Train accuracy = 0.9679012345679012 
-
-p3 Block: 2 Iter: 30000. Loss: 0.092439
-Train accuracy = 0.9765432098765432 
-
-p3 Block: 2 Iter: 40000. Loss: 0.100815
-Train accuracy = 0.9851851851851852 
-
-p3 Block: 2 Iter: 50000. Loss: 0.029833
-Train accuracy = 0.991358024691358 
-
-p3 Block: 2 Iter: 60000. Loss: 0.027573
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 2 Iter: 70000. Loss: 0.024533
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 2 Iter: 80000. Loss: 0.015550
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 2 Iter: 90000. Loss: 0.009431
-Train accuracy = 1.0 
-
-p3 Block: 2 Test accuracy = 0.7230769230769231
-p3 Block: 3 Iter: 0. Loss: 3.808263
-Train accuracy = 0.7790123456790123 
-
-p3 Block: 3 Iter: 10000. Loss: 0.244698
-Train accuracy = 0.9197530864197531 
-
-p3 Block: 3 Iter: 20000. Loss: 0.147492
-Train accuracy = 0.9518518518518518 
-
-p3 Block: 3 Iter: 30000. Loss: 0.083657
-Train accuracy = 0.9753086419753086 
-
-p3 Block: 3 Iter: 40000. Loss: 0.075965
-Train accuracy = 0.9839506172839506 
-
-p3 Block: 3 Iter: 50000. Loss: 0.039153
-Train accuracy = 0.9888888888888889 
-
-p3 Block: 3 Iter: 60000. Loss: 0.040512
-Train accuracy = 0.991358024691358 
-
-p3 Block: 3 Iter: 70000. Loss: 0.058168
-Train accuracy = 0.9962962962962963 
-
-p3 Block: 3 Iter: 80000. Loss: 0.020270
-Train accuracy = 1.0 
-
-p3 Block: 3 Iter: 90000. Loss: 0.009103
-Train accuracy = 1.0 
-
-p3 Block: 3 Test accuracy = 0.6946949602122016
-p3 Block: 4 Iter: 0. Loss: 3.207532
-Train accuracy = 0.29012345679012347 
-
-p3 Block: 4 Iter: 10000. Loss: 0.275882
-Train accuracy = 0.9024691358024691 
-
-p3 Block: 4 Iter: 20000. Loss: 0.158557
-Train accuracy = 0.9728395061728395 
-
-p3 Block: 4 Iter: 30000. Loss: 0.069919
-Train accuracy = 0.9814814814814815 
-
-p3 Block: 4 Iter: 40000. Loss: 0.082198
-Train accuracy = 0.9851851851851852 
-
-p3 Block: 4 Iter: 50000. Loss: 0.074606
-Train accuracy = 0.9925925925925926 
-
-p3 Block: 4 Iter: 60000. Loss: 0.038074
-Train accuracy = 0.9962962962962963 
-
-p3 Block: 4 Iter: 70000. Loss: 0.024414
-Train accuracy = 0.9975308641975309 
-
-p3 Block: 4 Iter: 80000. Loss: 0.050986
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 4 Iter: 90000. Loss: 0.006234
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 4 Test accuracy = 0.7305039787798409
-p3 Block: 5 Iter: 0. Loss: 4.572826
-Train accuracy = 0.24444444444444444 
-
-p3 Block: 5 Iter: 10000. Loss: 0.146143
-Train accuracy = 0.9185185185185185 
-
-p3 Block: 5 Iter: 20000. Loss: 0.110261
-Train accuracy = 0.9580246913580247 
-
-p3 Block: 5 Iter: 30000. Loss: 0.174019
-Train accuracy = 0.9728395061728395 
-
-p3 Block: 5 Iter: 40000. Loss: 0.103007
-Train accuracy = 0.9777777777777777 
-
-p3 Block: 5 Iter: 50000. Loss: 0.038092
-Train accuracy = 0.9888888888888889 
-
-p3 Block: 5 Iter: 60000. Loss: 0.046550
-Train accuracy = 0.9987654320987654 
-
-p3 Block: 5 Iter: 70000. Loss: 0.016993
-Train accuracy = 1.0 
-
-p3 Block: 5 Iter: 80000. Loss: 0.014478
-Train accuracy = 1.0 
-
-p3 Block: 5 Iter: 90000. Loss: 0.010926
-Train accuracy = 1.0 
-
-p3 Block: 5 Test accuracy = 0.7002652519893899
-p3 Block: 6 Iter: 0. Loss: 3.664608
-Train accuracy = 0.7691358024691358 
-
-p3 Block: 6 Iter: 10000. Loss: 0.226376
-Train accuracy = 0.9012345679012346 
-
-p3 Block: 6 Iter: 20000. Loss: 0.200202
-Train accuracy = 0.9543209876543209 
-
-p3 Block: 6 Iter: 30000. Loss: 0.089984
-Train accuracy = 0.9839506172839506 
-
-p3 Block: 6 Iter: 40000. Loss: 0.076327
-Train accuracy = 0.991358024691358 
-
-p3 Block: 6 Iter: 50000. Loss: 0.058059
-Train accuracy = 0.9975308641975309 
-
-p3 Block: 6 Iter: 60000. Loss: 0.032778
-Train accuracy = 1.0 
-
-p3 Block: 6 Iter: 70000. Loss: 0.014486
-Train accuracy = 1.0 
-
-p3 Block: 6 Iter: 80000. Loss: 0.009196
-Train accuracy = 1.0 
-
-p3 Block: 6 Iter: 90000. Loss: 0.006434
-Train accuracy = 1.0 
-
-p3 Block: 6 Test accuracy = 0.7549071618037135
-p3 Block: 7 Iter: 0. Loss: 17.201618
-Train accuracy = 0.22098765432098766 
-
-p3 Block: 7 Iter: 10000. Loss: 0.337617
-Train accuracy = 0.8506172839506173 
-
-p3 Block: 7 Iter: 20000. Loss: 0.345703
-Train accuracy = 0.9074074074074074 
-
-p3 Block: 7 Iter: 30000. Loss: 0.292101
-Train accuracy = 0.9098765432098765 
-
-p3 Block: 7 Iter: 40000. Loss: 0.211459
-Train accuracy = 0.9197530864197531 
-
-p3 Block: 7 Iter: 50000. Loss: 0.204422
-Train accuracy = 0.9197530864197531 
-
-p3 Block: 7 Iter: 60000. Loss: 0.223642
-Train accuracy = 0.9271604938271605 
-
-p3 Block: 7 Iter: 70000. Loss: 0.121865
-Train accuracy = 0.9444444444444444 
-
-p3 Block: 7 Iter: 80000. Loss: 0.213366
-Train accuracy = 0.9530864197530864 
-
-p3 Block: 7 Iter: 90000. Loss: 0.131948
-Train accuracy = 0.9530864197530864 
-
-p3 Block: 7 Test accuracy = 0.7140583554376658
-p3 Block: 8 Iter: 0. Loss: 1.128400
-Train accuracy = 0.5432098765432098 
-
-p3 Block: 8 Iter: 10000. Loss: 0.184558
-Train accuracy = 0.9444444444444444 
-
-p3 Block: 8 Iter: 20000. Loss: 0.106876
-Train accuracy = 0.9777777777777777 
-
-p3 Block: 8 Iter: 30000. Loss: 0.052255
-Train accuracy = 0.9901234567901235 
-
-p3 Block: 8 Iter: 40000. Loss: 0.068180
-Train accuracy = 0.9950617283950617 
-
-p3 Block: 8 Iter: 50000. Loss: 0.057673
-Train accuracy = 0.9938271604938271 
-
-p3 Block: 8 Iter: 60000. Loss: 0.022090
-Train accuracy = 0.9962962962962963 
-
-p3 Block: 8 Iter: 70000. Loss: 0.078348
-Train accuracy = 0.9975308641975309 
-
-p3 Block: 8 Iter: 80000. Loss: 0.079361
-Train accuracy = 0.9962962962962963 
-
-p3 Block: 8 Iter: 90000. Loss: 0.011418
-Train accuracy = 0.9962962962962963 
-
-p3 Block: 8 Test accuracy = 0.6554376657824934
-13:20:28 p3 Test accuracy = 0.8018567639257295
-12:40:36 p2 start
-p2 Block: 0 Iter: 0. Loss: 2.000194
-Train accuracy = 0.7876543209876543 
-
-p2 Block: 0 Iter: 10000. Loss: 0.241347
-Train accuracy = 0.9037037037037037 
-
-p2 Block: 0 Iter: 20000. Loss: 0.125275
-Train accuracy = 0.9629629629629629 
-
-p2 Block: 0 Iter: 30000. Loss: 0.125599
-Train accuracy = 0.9839506172839506 
-
-p2 Block: 0 Iter: 40000. Loss: 0.108115
-Train accuracy = 0.9876543209876543 
-
-p2 Block: 0 Iter: 50000. Loss: 0.042448
-Train accuracy = 0.9938271604938271 
-
-p2 Block: 0 Iter: 60000. Loss: 0.019991
-Train accuracy = 0.9938271604938271 
-
-p2 Block: 0 Iter: 70000. Loss: 0.014817
-Train accuracy = 0.9962962962962963 
-
-p2 Block: 0 Iter: 80000. Loss: 0.010007
-Train accuracy = 0.9962962962962963 
-
-p2 Block: 0 Iter: 90000. Loss: 0.010373
-Train accuracy = 0.9962962962962963 
-
-p2 Block: 0 Test accuracy = 0.8
-p2 Block: 1 Iter: 0. Loss: 14.150675
-Train accuracy = 0.2037037037037037 
-
-p2 Block: 1 Iter: 10000. Loss: 0.376237
-Train accuracy = 0.8790123456790123 
-
-p2 Block: 1 Iter: 20000. Loss: 0.141788
-Train accuracy = 0.9012345679012346 
-
-p2 Block: 1 Iter: 30000. Loss: 0.232996
-Train accuracy = 0.9234567901234568 
-
-p2 Block: 1 Iter: 40000. Loss: 0.208276
-Train accuracy = 0.9271604938271605 
-
-p2 Block: 1 Iter: 50000. Loss: 0.123709
-Train accuracy = 0.9382716049382716 
-
-p2 Block: 1 Iter: 60000. Loss: 0.172756
-Train accuracy = 0.945679012345679 
-
-p2 Block: 1 Iter: 70000. Loss: 0.144816
-Train accuracy = 0.9604938271604938 
-
-p2 Block: 1 Iter: 80000. Loss: 0.073905
-Train accuracy = 0.9666666666666667 
-
-p2 Block: 1 Iter: 90000. Loss: 0.103280
-Train accuracy = 0.9740740740740741 
-
-p2 Block: 1 Test accuracy = 0.7297082228116711
-p2 Block: 2 Iter: 0. Loss: 23.714542
-Train accuracy = 0.22592592592592592 
-
-p2 Block: 2 Iter: 10000. Loss: 0.399606
-Train accuracy = 0.8209876543209876 
-
-p2 Block: 2 Iter: 20000. Loss: 0.480275
-Train accuracy = 0.8666666666666667 
-
-p2 Block: 2 Iter: 30000. Loss: 0.319316
-Train accuracy = 0.891358024691358 
-
-p2 Block: 2 Iter: 40000. Loss: 0.214764
-Train accuracy = 0.8987654320987655 
-
-p2 Block: 2 Iter: 50000. Loss: 0.238470
-Train accuracy = 0.9024691358024691 
-
-p2 Block: 2 Iter: 60000. Loss: 0.253868
-Train accuracy = 0.9148148148148149 
-
-p2 Block: 2 Iter: 70000. Loss: 0.167906
+p1 Block: 0 Iter: 20000. Loss: 0.228250
 Train accuracy = 0.9111111111111111 
 
-p2 Block: 2 Iter: 80000. Loss: 0.150088
-Train accuracy = 0.9160493827160494 
-
-p2 Block: 2 Iter: 90000. Loss: 0.189607
-Train accuracy = 0.9308641975308642 
-
-p2 Block: 2 Test accuracy = 0.7275862068965517
-p2 Block: 3 Iter: 0. Loss: 5.420144
-Train accuracy = 0.20864197530864198 
-
-p2 Block: 3 Iter: 10000. Loss: 0.226211
-Train accuracy = 0.9012345679012346 
-
-p2 Block: 3 Iter: 20000. Loss: 0.148112
-Train accuracy = 0.9567901234567902 
-
-p2 Block: 3 Iter: 30000. Loss: 0.101850
-Train accuracy = 0.9765432098765432 
-
-p2 Block: 3 Iter: 40000. Loss: 0.091602
-Train accuracy = 0.980246913580247 
-
-p2 Block: 3 Iter: 50000. Loss: 0.046462
-Train accuracy = 0.9864197530864197 
-
-p2 Block: 3 Iter: 60000. Loss: 0.023834
-Train accuracy = 0.9925925925925926 
-
-p2 Block: 3 Iter: 70000. Loss: 0.040079
-Train accuracy = 0.9925925925925926 
-
-p2 Block: 3 Iter: 80000. Loss: 0.057775
-Train accuracy = 0.9950617283950617 
-
-p2 Block: 3 Iter: 90000. Loss: 0.005323
-Train accuracy = 0.9950617283950617 
-
-p2 Block: 3 Test accuracy = 0.7737400530503978
-p2 Block: 4 Iter: 0. Loss: 1.221467
-Train accuracy = 0.5234567901234568 
-
-p2 Block: 4 Iter: 10000. Loss: 0.152878
-Train accuracy = 0.9629629629629629 
-
-p2 Block: 4 Iter: 20000. Loss: 0.132630
-Train accuracy = 0.9790123456790123 
-
-p2 Block: 4 Iter: 30000. Loss: 0.068643
-Train accuracy = 0.9950617283950617 
-
-p2 Block: 4 Iter: 40000. Loss: 0.045945
-Train accuracy = 1.0 
-
-p2 Block: 4 Iter: 50000. Loss: 0.019544
-Train accuracy = 1.0 
-
-p2 Block: 4 Iter: 60000. Loss: 0.021289
-Train accuracy = 1.0 
-
-p2 Block: 4 Iter: 70000. Loss: 0.008896
-Train accuracy = 1.0 
-
-p2 Block: 4 Iter: 80000. Loss: 0.004763
-Train accuracy = 1.0 
-
-p2 Block: 4 Iter: 90000. Loss: 0.005099
-Train accuracy = 1.0 
-
-p2 Block: 4 Test accuracy = 0.7084880636604775
-p2 Block: 5 Iter: 0. Loss: 4.652652
-Train accuracy = 0.8135802469135802 
-
-p2 Block: 5 Iter: 10000. Loss: 0.184435
-Train accuracy = 0.9123456790123456 
-
-p2 Block: 5 Iter: 20000. Loss: 0.140414
-Train accuracy = 0.9506172839506173 
-
-p2 Block: 5 Iter: 30000. Loss: 0.112939
-Train accuracy = 0.9753086419753086 
-
-p2 Block: 5 Iter: 40000. Loss: 0.125426
-Train accuracy = 0.9851851851851852 
-
-p2 Block: 5 Iter: 50000. Loss: 0.054478
-Train accuracy = 0.9888888888888889 
-
-p2 Block: 5 Iter: 60000. Loss: 0.034560
-Train accuracy = 0.9864197530864197 
-
-p2 Block: 5 Iter: 70000. Loss: 0.031817
-Train accuracy = 0.9901234567901235 
-
-p2 Block: 5 Iter: 80000. Loss: 0.024965
-Train accuracy = 0.991358024691358 
-
-p2 Block: 5 Iter: 90000. Loss: 0.020369
-Train accuracy = 0.9925925925925926 
-
-p2 Block: 5 Test accuracy = 0.7692307692307693
-p2 Block: 6 Iter: 0. Loss: 12.271046
-Train accuracy = 0.2037037037037037 
-
-p2 Block: 6 Iter: 10000. Loss: 0.265885
-Train accuracy = 0.9160493827160494 
-
-p2 Block: 6 Iter: 20000. Loss: 0.116421
-Train accuracy = 0.9469135802469136 
-
-p2 Block: 6 Iter: 30000. Loss: 0.228110
-Train accuracy = 0.9666666666666667 
-
-p2 Block: 6 Iter: 40000. Loss: 0.086614
-Train accuracy = 0.9703703703703703 
-
-p2 Block: 6 Iter: 50000. Loss: 0.080740
-Train accuracy = 0.9777777777777777 
-
-p2 Block: 6 Iter: 60000. Loss: 0.047131
-Train accuracy = 0.9864197530864197 
-
-p2 Block: 6 Iter: 70000. Loss: 0.029198
-Train accuracy = 0.9876543209876543 
-
-p2 Block: 6 Iter: 80000. Loss: 0.025140
-Train accuracy = 0.9901234567901235 
-
-p2 Block: 6 Iter: 90000. Loss: 0.023364
-Train accuracy = 0.9876543209876543 
-
-p2 Block: 6 Test accuracy = 0.7482758620689656
-p2 Block: 7 Iter: 0. Loss: 20.990269
-Train accuracy = 0.19135802469135801 
-
-p2 Block: 7 Iter: 10000. Loss: 0.339516
-Train accuracy = 0.9123456790123456 
-
-p2 Block: 7 Iter: 20000. Loss: 0.154335
-Train accuracy = 0.9407407407407408 
-
-p2 Block: 7 Iter: 30000. Loss: 0.164505
-Train accuracy = 0.9543209876543209 
-
-p2 Block: 7 Iter: 40000. Loss: 0.117813
-Train accuracy = 0.971604938271605 
-
-p2 Block: 7 Iter: 50000. Loss: 0.101020
-Train accuracy = 0.9790123456790123 
-
-p2 Block: 7 Iter: 60000. Loss: 0.105228
-Train accuracy = 0.980246913580247 
-
-p2 Block: 7 Iter: 70000. Loss: 0.051458
-Train accuracy = 0.9814814814814815 
-
-p2 Block: 7 Iter: 80000. Loss: 0.031485
-Train accuracy = 0.9851851851851852 
-
-p2 Block: 7 Iter: 90000. Loss: 0.041351
-Train accuracy = 0.9876543209876543 
-
-p2 Block: 7 Test accuracy = 0.7238726790450929
-p2 Block: 8 Iter: 0. Loss: 7.010748
-Train accuracy = 0.7790123456790123 
-
-p2 Block: 8 Iter: 10000. Loss: 0.364738
-Train accuracy = 0.8975308641975308 
-
-p2 Block: 8 Iter: 20000. Loss: 0.208133
-Train accuracy = 0.9419753086419753 
-
-p2 Block: 8 Iter: 30000. Loss: 0.142784
-Train accuracy = 0.9641975308641976 
-
-p2 Block: 8 Iter: 40000. Loss: 0.085688
-Train accuracy = 0.9839506172839506 
-
-p2 Block: 8 Iter: 50000. Loss: 0.047777
-Train accuracy = 0.9962962962962963 
-
-p2 Block: 8 Iter: 60000. Loss: 0.041163
-Train accuracy = 0.9975308641975309 
-
-p2 Block: 8 Iter: 70000. Loss: 0.018943
-Train accuracy = 1.0 
-
-p2 Block: 8 Iter: 80000. Loss: 0.010471
-Train accuracy = 1.0 
-
-p2 Block: 8 Iter: 90000. Loss: 0.007928
-Train accuracy = 1.0 
-
-p2 Block: 8 Test accuracy = 0.7445623342175066
-13:21:04 p2 Test accuracy = 0.8084880636604774
-12:40:36 p1 start
-p1 Block: 0 Iter: 0. Loss: 1.582303
-Train accuracy = 0.7296296296296296 
-
-p1 Block: 0 Iter: 10000. Loss: 0.299660
-Train accuracy = 0.9012345679012346 
-
-p1 Block: 0 Iter: 20000. Loss: 0.222295
-Train accuracy = 0.9185185185185185 
-
-p1 Block: 0 Iter: 30000. Loss: 0.149466
-Train accuracy = 0.945679012345679 
-
-p1 Block: 0 Iter: 40000. Loss: 0.194047
-Train accuracy = 0.9518518518518518 
-
-p1 Block: 0 Iter: 50000. Loss: 0.163459
-Train accuracy = 0.9666666666666667 
-
-p1 Block: 0 Iter: 60000. Loss: 0.100913
-Train accuracy = 0.9851851851851852 
-
-p1 Block: 0 Iter: 70000. Loss: 0.049484
-Train accuracy = 0.9888888888888889 
-
-p1 Block: 0 Iter: 80000. Loss: 0.037779
-Train accuracy = 0.991358024691358 
-
-p1 Block: 0 Iter: 90000. Loss: 0.046503
-Train accuracy = 0.9888888888888889 
-
-p1 Block: 0 Test accuracy = 0.6230769230769231
-p1 Block: 1 Iter: 0. Loss: 3.150850
-Train accuracy = 0.30864197530864196 
-
-p1 Block: 1 Iter: 10000. Loss: 0.288044
-Train accuracy = 0.891358024691358 
-
-p1 Block: 1 Iter: 20000. Loss: 0.273740
-Train accuracy = 0.945679012345679 
-
-p1 Block: 1 Iter: 30000. Loss: 0.219858
-Train accuracy = 0.9604938271604938 
-
-p1 Block: 1 Iter: 40000. Loss: 0.120426
-Train accuracy = 0.9740740740740741 
-
-p1 Block: 1 Iter: 50000. Loss: 0.098104
-Train accuracy = 0.9814814814814815 
-
-p1 Block: 1 Iter: 60000. Loss: 0.114016
-Train accuracy = 0.9851851851851852 
-
-p1 Block: 1 Iter: 70000. Loss: 0.089282
-Train accuracy = 0.9876543209876543 
-
-p1 Block: 1 Iter: 80000. Loss: 0.030513
-Train accuracy = 0.9925925925925926 
-
-p1 Block: 1 Iter: 90000. Loss: 0.060285
-Train accuracy = 0.9938271604938271 
-
-p1 Block: 1 Test accuracy = 0.6307692307692307
-p1 Block: 2 Iter: 0. Loss: 3.552071
-Train accuracy = 0.2802469135802469 
-
-p1 Block: 2 Iter: 10000. Loss: 0.265118
-Train accuracy = 0.9197530864197531 
-
-p1 Block: 2 Iter: 20000. Loss: 0.183033
-Train accuracy = 0.9629629629629629 
-
-p1 Block: 2 Iter: 30000. Loss: 0.077810
-Train accuracy = 0.9814814814814815 
-
-p1 Block: 2 Iter: 40000. Loss: 0.066650
-Train accuracy = 0.9975308641975309 
-
-p1 Block: 2 Iter: 50000. Loss: 0.043932
-Train accuracy = 0.9938271604938271 
-
-p1 Block: 2 Iter: 60000. Loss: 0.025528
-Train accuracy = 1.0 
-
-p1 Block: 2 Iter: 70000. Loss: 0.016073
-Train accuracy = 1.0 
-
-p1 Block: 2 Iter: 80000. Loss: 0.019278
-Train accuracy = 1.0 
-
-p1 Block: 2 Iter: 90000. Loss: 0.010338
-Train accuracy = 1.0 
-
-p1 Block: 2 Test accuracy = 0.7363395225464191
-p1 Block: 3 Iter: 0. Loss: 2.752337
-Train accuracy = 0.671604938271605 
-
-p1 Block: 3 Iter: 10000. Loss: 0.277918
-Train accuracy = 0.8802469135802469 
-
-p1 Block: 3 Iter: 20000. Loss: 0.246221
-Train accuracy = 0.9333333333333333 
-
-p1 Block: 3 Iter: 30000. Loss: 0.152743
-Train accuracy = 0.9493827160493827 
-
-p1 Block: 3 Iter: 40000. Loss: 0.099007
-Train accuracy = 0.9703703703703703 
-
-p1 Block: 3 Iter: 50000. Loss: 0.076416
-Train accuracy = 0.9827160493827161 
-
-p1 Block: 3 Iter: 60000. Loss: 0.082203
-Train accuracy = 0.9864197530864197 
-
-p1 Block: 3 Iter: 70000. Loss: 0.061739
-Train accuracy = 0.9901234567901235 
-
-p1 Block: 3 Iter: 80000. Loss: 0.030660
-Train accuracy = 0.9888888888888889 
-
-p1 Block: 3 Iter: 90000. Loss: 0.022483
-Train accuracy = 0.9962962962962963 
-
-p1 Block: 3 Test accuracy = 0.6615384615384615
-p1 Block: 4 Iter: 0. Loss: 4.538173
-Train accuracy = 0.7086419753086419 
-
-p1 Block: 4 Iter: 10000. Loss: 0.195743
-Train accuracy = 0.9074074074074074 
-
-p1 Block: 4 Iter: 20000. Loss: 0.191674
-Train accuracy = 0.9604938271604938 
-
-p1 Block: 4 Iter: 30000. Loss: 0.114963
-Train accuracy = 0.9814814814814815 
-
-p1 Block: 4 Iter: 40000. Loss: 0.123324
-Train accuracy = 0.991358024691358 
-
-p1 Block: 4 Iter: 50000. Loss: 0.050833
-Train accuracy = 0.9962962962962963 
-
-p1 Block: 4 Iter: 60000. Loss: 0.030594
-Train accuracy = 1.0 
-
-p1 Block: 4 Iter: 70000. Loss: 0.029828
-Train accuracy = 1.0 
-
-p1 Block: 4 Iter: 80000. Loss: 0.020281
-Train accuracy = 1.0 
-
-p1 Block: 4 Iter: 90000. Loss: 0.013835
-Train accuracy = 1.0 
-
-p1 Block: 4 Test accuracy = 0.7047745358090186
-p1 Block: 5 Iter: 0. Loss: 12.326492
-Train accuracy = 0.2938271604938272 
-
-p1 Block: 5 Iter: 10000. Loss: 0.521211
-Train accuracy = 0.7716049382716049 
-
-p1 Block: 5 Iter: 20000. Loss: 0.500268
-Train accuracy = 0.7901234567901234 
-
-p1 Block: 5 Iter: 30000. Loss: 0.451459
-Train accuracy = 0.8012345679012346 
-
-p1 Block: 5 Iter: 40000. Loss: 0.417534
-Train accuracy = 0.8111111111111111 
-
-p1 Block: 5 Iter: 50000. Loss: 0.445621
-Train accuracy = 0.8185185185185185 
-
-p1 Block: 5 Iter: 60000. Loss: 0.389949
-Train accuracy = 0.8197530864197531 
-
-p1 Block: 5 Iter: 70000. Loss: 0.421316
-Train accuracy = 0.828395061728395 
-
-p1 Block: 5 Iter: 80000. Loss: 0.388642
-Train accuracy = 0.8407407407407408 
-
-p1 Block: 5 Iter: 90000. Loss: 0.337904
-Train accuracy = 0.8518518518518519 
-
-p1 Block: 5 Test accuracy = 0.7440318302387268
-p1 Block: 6 Iter: 0. Loss: 4.288619
-Train accuracy = 0.6975308641975309 
-
-p1 Block: 6 Iter: 10000. Loss: 0.260462
-Train accuracy = 0.9098765432098765 
-
-p1 Block: 6 Iter: 20000. Loss: 0.249203
+p1 Block: 0 Iter: 30000. Loss: 0.233817
 Train accuracy = 0.9580246913580247 
 
-p1 Block: 6 Iter: 30000. Loss: 0.149999
-Train accuracy = 0.9641975308641976 
+p1 Block: 0 Iter: 40000. Loss: 0.194630
+Train accuracy = 0.9753086419753086 
 
-p1 Block: 6 Iter: 40000. Loss: 0.113465
+p1 Block: 0 Iter: 50000. Loss: 0.124130
+Train accuracy = 0.9814814814814815 
+
+p1 Block: 0 Iter: 60000. Loss: 0.117712
 Train accuracy = 0.980246913580247 
 
-p1 Block: 6 Iter: 50000. Loss: 0.142679
-Train accuracy = 0.991358024691358 
+p1 Block: 0 Iter: 70000. Loss: 0.071230
+Train accuracy = 0.9925925925925926 
 
-p1 Block: 6 Iter: 60000. Loss: 0.062127
-Train accuracy = 0.9950617283950617 
-
-p1 Block: 6 Iter: 70000. Loss: 0.046280
+p1 Block: 0 Iter: 80000. Loss: 0.062337
 Train accuracy = 0.9962962962962963 
 
-p1 Block: 6 Iter: 80000. Loss: 0.029080
-Train accuracy = 0.9950617283950617 
+p1 Block: 0 Iter: 90000. Loss: 0.046931
+Train accuracy = 0.9938271604938271 
 
-p1 Block: 6 Iter: 90000. Loss: 0.032772
-Train accuracy = 0.9950617283950617 
+p1 Block: 0 Test accuracy = 0.6159151193633953
+p1 Block: 1 Iter: 0. Loss: 17.228857
+Train accuracy = 0.2975308641975309 
 
-p1 Block: 6 Test accuracy = 0.6798408488063661
-p1 Block: 7 Iter: 0. Loss: 9.035765
-Train accuracy = 0.3074074074074074 
+p1 Block: 1 Iter: 10000. Loss: 0.287900
+Train accuracy = 0.845679012345679 
 
-p1 Block: 7 Iter: 10000. Loss: 0.363526
-Train accuracy = 0.9012345679012346 
-
-p1 Block: 7 Iter: 20000. Loss: 0.262373
-Train accuracy = 0.9296296296296296 
-
-p1 Block: 7 Iter: 30000. Loss: 0.180681
-Train accuracy = 0.971604938271605 
-
-p1 Block: 7 Iter: 40000. Loss: 0.133042
-Train accuracy = 0.9827160493827161 
-
-p1 Block: 7 Iter: 50000. Loss: 0.073813
-Train accuracy = 0.9864197530864197 
-
-p1 Block: 7 Iter: 60000. Loss: 0.066747
-Train accuracy = 0.9987654320987654 
-
-p1 Block: 7 Iter: 70000. Loss: 0.068921
-Train accuracy = 0.9987654320987654 
-
-p1 Block: 7 Iter: 80000. Loss: 0.041390
-Train accuracy = 0.9987654320987654 
-
-p1 Block: 7 Iter: 90000. Loss: 0.029942
-Train accuracy = 0.9987654320987654 
-
-p1 Block: 7 Test accuracy = 0.689920424403183
-p1 Block: 8 Iter: 0. Loss: 2.464555
-Train accuracy = 0.44814814814814813 
-
-p1 Block: 8 Iter: 10000. Loss: 0.349857
+p1 Block: 1 Iter: 20000. Loss: 0.199077
 Train accuracy = 0.917283950617284 
 
-p1 Block: 8 Iter: 20000. Loss: 0.213643
-Train accuracy = 0.9543209876543209 
+p1 Block: 1 Iter: 30000. Loss: 0.196580
+Train accuracy = 0.9320987654320988 
 
-p1 Block: 8 Iter: 30000. Loss: 0.124275
-Train accuracy = 0.9691358024691358 
+p1 Block: 1 Iter: 40000. Loss: 0.227832
+Train accuracy = 0.9506172839506173 
 
-p1 Block: 8 Iter: 40000. Loss: 0.121921
-Train accuracy = 0.9864197530864197 
+p1 Block: 1 Iter: 50000. Loss: 0.112782
+Train accuracy = 0.9567901234567902 
 
-p1 Block: 8 Iter: 50000. Loss: 0.070868
+p1 Block: 1 Iter: 60000. Loss: 0.123216
+Train accuracy = 0.9666666666666667 
+
+p1 Block: 1 Iter: 70000. Loss: 0.068002
+Train accuracy = 0.980246913580247 
+
+p1 Block: 1 Iter: 80000. Loss: 0.072923
+Train accuracy = 0.9938271604938271 
+
+p1 Block: 1 Iter: 90000. Loss: 0.047287
 Train accuracy = 0.991358024691358 
 
-p1 Block: 8 Iter: 60000. Loss: 0.036315
-Train accuracy = 0.9950617283950617 
+p1 Block: 1 Test accuracy = 0.710079575596817
+p1 Block: 2 Iter: 0. Loss: 2.058938
+Train accuracy = 0.3308641975308642 
 
-p1 Block: 8 Iter: 70000. Loss: 0.031076
+p1 Block: 2 Iter: 10000. Loss: 0.332393
+Train accuracy = 0.8518518518518519 
+
+p1 Block: 2 Iter: 20000. Loss: 0.351075
+Train accuracy = 0.9259259259259259 
+
+p1 Block: 2 Iter: 30000. Loss: 0.191637
+Train accuracy = 0.9506172839506173 
+
+p1 Block: 2 Iter: 40000. Loss: 0.164766
+Train accuracy = 0.9679012345679012 
+
+p1 Block: 2 Iter: 50000. Loss: 0.122204
+Train accuracy = 0.9839506172839506 
+
+p1 Block: 2 Iter: 60000. Loss: 0.105034
+Train accuracy = 0.9876543209876543 
+
+p1 Block: 2 Iter: 70000. Loss: 0.059598
+Train accuracy = 0.9925925925925926 
+
+p1 Block: 2 Iter: 80000. Loss: 0.054691
 Train accuracy = 0.9987654320987654 
 
-p1 Block: 8 Iter: 80000. Loss: 0.034041
+p1 Block: 2 Iter: 90000. Loss: 0.044405
+Train accuracy = 0.9987654320987654 
+
+p1 Block: 2 Test accuracy = 0.6782493368700265
+p1 Block: 3 Iter: 0. Loss: 3.427350
+Train accuracy = 0.7111111111111111 
+
+p1 Block: 3 Iter: 10000. Loss: 0.334336
+Train accuracy = 0.8506172839506173 
+
+p1 Block: 3 Iter: 20000. Loss: 0.273499
+Train accuracy = 0.8987654320987655 
+
+p1 Block: 3 Iter: 30000. Loss: 0.200530
+Train accuracy = 0.9407407407407408 
+
+p1 Block: 3 Iter: 40000. Loss: 0.135261
+Train accuracy = 0.9567901234567902 
+
+p1 Block: 3 Iter: 50000. Loss: 0.082780
+Train accuracy = 0.9703703703703703 
+
+p1 Block: 3 Iter: 60000. Loss: 0.112398
+Train accuracy = 0.9790123456790123 
+
+p1 Block: 3 Iter: 70000. Loss: 0.043282
+Train accuracy = 0.9888888888888889 
+
+p1 Block: 3 Iter: 80000. Loss: 0.030050
+Train accuracy = 0.9975308641975309 
+
+p1 Block: 3 Iter: 90000. Loss: 0.029309
+Train accuracy = 0.9975308641975309 
+
+p1 Block: 3 Test accuracy = 0.696816976127321
+p1 Block: 4 Iter: 0. Loss: 1.234106
+Train accuracy = 0.4382716049382716 
+
+p1 Block: 4 Iter: 10000. Loss: 0.297496
+Train accuracy = 0.8950617283950617 
+
+p1 Block: 4 Iter: 20000. Loss: 0.269857
+Train accuracy = 0.9345679012345679 
+
+p1 Block: 4 Iter: 30000. Loss: 0.231651
+Train accuracy = 0.9493827160493827 
+
+p1 Block: 4 Iter: 40000. Loss: 0.126782
+Train accuracy = 0.9617283950617284 
+
+p1 Block: 4 Iter: 50000. Loss: 0.103003
+Train accuracy = 0.9679012345679012 
+
+p1 Block: 4 Iter: 60000. Loss: 0.095384
+Train accuracy = 0.9827160493827161 
+
+p1 Block: 4 Iter: 70000. Loss: 0.049671
+Train accuracy = 0.9851851851851852 
+
+p1 Block: 4 Iter: 80000. Loss: 0.050091
+Train accuracy = 0.9888888888888889 
+
+p1 Block: 4 Iter: 90000. Loss: 0.062411
+Train accuracy = 0.9938271604938271 
+
+p1 Block: 4 Test accuracy = 0.6713527851458886
+p1 Block: 5 Iter: 0. Loss: 3.059963
+Train accuracy = 0.7061728395061728 
+
+p1 Block: 5 Iter: 10000. Loss: 0.273465
+Train accuracy = 0.8740740740740741 
+
+p1 Block: 5 Iter: 20000. Loss: 0.262074
+Train accuracy = 0.8975308641975308 
+
+p1 Block: 5 Iter: 30000. Loss: 0.208089
+Train accuracy = 0.9530864197530864 
+
+p1 Block: 5 Iter: 40000. Loss: 0.186954
+Train accuracy = 0.9679012345679012 
+
+p1 Block: 5 Iter: 50000. Loss: 0.105992
+Train accuracy = 0.9703703703703703 
+
+p1 Block: 5 Iter: 60000. Loss: 0.066936
+Train accuracy = 0.9851851851851852 
+
+p1 Block: 5 Iter: 70000. Loss: 0.060783
+Train accuracy = 0.9925925925925926 
+
+p1 Block: 5 Iter: 80000. Loss: 0.052171
+Train accuracy = 0.9925925925925926 
+
+p1 Block: 5 Iter: 90000. Loss: 0.044106
+Train accuracy = 0.9987654320987654 
+
+p1 Block: 5 Test accuracy = 0.7106100795755969
+p1 Block: 6 Iter: 0. Loss: 2.914920
+Train accuracy = 0.34444444444444444 
+
+p1 Block: 6 Iter: 10000. Loss: 0.319554
+Train accuracy = 0.8567901234567902 
+
+p1 Block: 6 Iter: 20000. Loss: 0.271627
+Train accuracy = 0.9160493827160494 
+
+p1 Block: 6 Iter: 30000. Loss: 0.174334
+Train accuracy = 0.945679012345679 
+
+p1 Block: 6 Iter: 40000. Loss: 0.178128
+Train accuracy = 0.9753086419753086 
+
+p1 Block: 6 Iter: 50000. Loss: 0.107422
+Train accuracy = 0.9950617283950617 
+
+p1 Block: 6 Iter: 60000. Loss: 0.091906
+Train accuracy = 0.9950617283950617 
+
+p1 Block: 6 Iter: 70000. Loss: 0.036198
+Train accuracy = 0.9975308641975309 
+
+p1 Block: 6 Iter: 80000. Loss: 0.053562
+Train accuracy = 0.9975308641975309 
+
+p1 Block: 6 Iter: 90000. Loss: 0.022615
+Train accuracy = 0.9987654320987654 
+
+p1 Block: 6 Test accuracy = 0.7156498673740053
+p1 Block: 7 Iter: 0. Loss: 6.778669
+Train accuracy = 0.291358024691358 
+
+p1 Block: 7 Iter: 10000. Loss: 0.339712
+Train accuracy = 0.8555555555555555 
+
+p1 Block: 7 Iter: 20000. Loss: 0.373957
+Train accuracy = 0.8938271604938272 
+
+p1 Block: 7 Iter: 30000. Loss: 0.184830
+Train accuracy = 0.9320987654320988 
+
+p1 Block: 7 Iter: 40000. Loss: 0.207997
+Train accuracy = 0.9518518518518518 
+
+p1 Block: 7 Iter: 50000. Loss: 0.117671
+Train accuracy = 0.9728395061728395 
+
+p1 Block: 7 Iter: 60000. Loss: 0.100225
+Train accuracy = 0.9765432098765432 
+
+p1 Block: 7 Iter: 70000. Loss: 0.099755
+Train accuracy = 0.9740740740740741 
+
+p1 Block: 7 Iter: 80000. Loss: 0.092612
+Train accuracy = 0.9888888888888889 
+
+p1 Block: 7 Iter: 90000. Loss: 0.070022
+Train accuracy = 0.9925925925925926 
+
+p1 Block: 7 Test accuracy = 0.6175066312997347
+p1 Block: 8 Iter: 0. Loss: 25.379372
+Train accuracy = 0.2656826568265683 
+
+p1 Block: 8 Iter: 10000. Loss: 0.454283
+Train accuracy = 0.8044280442804428 
+
+p1 Block: 8 Iter: 20000. Loss: 0.406467
+Train accuracy = 0.8265682656826568 
+
+p1 Block: 8 Iter: 30000. Loss: 0.320487
+Train accuracy = 0.8597785977859779 
+
+p1 Block: 8 Iter: 40000. Loss: 0.331765
+Train accuracy = 0.8646986469864698 
+
+p1 Block: 8 Iter: 50000. Loss: 0.225291
+Train accuracy = 0.8905289052890529 
+
+p1 Block: 8 Iter: 60000. Loss: 0.230023
+Train accuracy = 0.9015990159901599 
+
+p1 Block: 8 Iter: 70000. Loss: 0.234533
+Train accuracy = 0.9028290282902829 
+
+p1 Block: 8 Iter: 80000. Loss: 0.245997
+Train accuracy = 0.9114391143911439 
+
+p1 Block: 8 Iter: 90000. Loss: 0.337067
+Train accuracy = 0.915129151291513 
+
+p1 Block: 8 Test accuracy = 0.6896551724137931
+23:17:02 p1 Test accuracy = 0.6946949602122016
+22:40:54 p2 start
+p2 Block: 0 Iter: 0. Loss: 5.211335
+Train accuracy = 0.2123456790123457 
+
+p2 Block: 0 Iter: 10000. Loss: 0.156890
+Train accuracy = 0.9604938271604938 
+
+p2 Block: 0 Iter: 20000. Loss: 0.086336
+Train accuracy = 0.9827160493827161 
+
+p2 Block: 0 Iter: 30000. Loss: 0.061115
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 0 Iter: 40000. Loss: 0.026860
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 0 Iter: 50000. Loss: 0.018368
+Train accuracy = 0.9975308641975309 
+
+p2 Block: 0 Iter: 60000. Loss: 0.049409
+Train accuracy = 0.9987654320987654 
+
+p2 Block: 0 Iter: 70000. Loss: 0.004482
+Train accuracy = 0.9987654320987654 
+
+p2 Block: 0 Iter: 80000. Loss: 0.003645
+Train accuracy = 0.9987654320987654 
+
+p2 Block: 0 Iter: 90000. Loss: 0.003172
 Train accuracy = 1.0 
 
-p1 Block: 8 Iter: 90000. Loss: 0.013462
+p2 Block: 0 Test accuracy = 0.723342175066313
+p2 Block: 1 Iter: 0. Loss: 2.863198
+Train accuracy = 0.7691358024691358 
+
+p2 Block: 1 Iter: 10000. Loss: 0.264610
+Train accuracy = 0.9197530864197531 
+
+p2 Block: 1 Iter: 20000. Loss: 0.152206
+Train accuracy = 0.9753086419753086 
+
+p2 Block: 1 Iter: 30000. Loss: 0.160997
+Train accuracy = 0.980246913580247 
+
+p2 Block: 1 Iter: 40000. Loss: 0.091677
+Train accuracy = 0.9876543209876543 
+
+p2 Block: 1 Iter: 50000. Loss: 0.040597
+Train accuracy = 0.991358024691358 
+
+p2 Block: 1 Iter: 60000. Loss: 0.040401
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 1 Iter: 70000. Loss: 0.022372
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 1 Iter: 80000. Loss: 0.018147
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 1 Iter: 90000. Loss: 0.015219
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 1 Test accuracy = 0.7472148541114059
+p2 Block: 2 Iter: 0. Loss: 22.393879
+Train accuracy = 0.22592592592592592 
+
+p2 Block: 2 Iter: 10000. Loss: 0.437992
+Train accuracy = 0.817283950617284 
+
+p2 Block: 2 Iter: 20000. Loss: 0.366263
+Train accuracy = 0.8493827160493828 
+
+p2 Block: 2 Iter: 30000. Loss: 0.391868
+Train accuracy = 0.8839506172839506 
+
+p2 Block: 2 Iter: 40000. Loss: 0.303353
+Train accuracy = 0.9148148148148149 
+
+p2 Block: 2 Iter: 50000. Loss: 0.230874
+Train accuracy = 0.9308641975308642 
+
+p2 Block: 2 Iter: 60000. Loss: 0.278075
+Train accuracy = 0.9444444444444444 
+
+p2 Block: 2 Iter: 70000. Loss: 0.172877
+Train accuracy = 0.9530864197530864 
+
+p2 Block: 2 Iter: 80000. Loss: 0.106526
+Train accuracy = 0.9592592592592593 
+
+p2 Block: 2 Iter: 90000. Loss: 0.158982
+Train accuracy = 0.9580246913580247 
+
+p2 Block: 2 Test accuracy = 0.6984084880636605
+p2 Block: 3 Iter: 0. Loss: 5.089398
+Train accuracy = 0.2 
+
+p2 Block: 3 Iter: 10000. Loss: 0.216560
+Train accuracy = 0.9555555555555556 
+
+p2 Block: 3 Iter: 20000. Loss: 0.097667
+Train accuracy = 0.9728395061728395 
+
+p2 Block: 3 Iter: 30000. Loss: 0.069149
+Train accuracy = 0.980246913580247 
+
+p2 Block: 3 Iter: 40000. Loss: 0.056855
+Train accuracy = 0.9876543209876543 
+
+p2 Block: 3 Iter: 50000. Loss: 0.080513
+Train accuracy = 0.9938271604938271 
+
+p2 Block: 3 Iter: 60000. Loss: 0.016819
+Train accuracy = 0.9938271604938271 
+
+p2 Block: 3 Iter: 70000. Loss: 0.015936
+Train accuracy = 0.9962962962962963 
+
+p2 Block: 3 Iter: 80000. Loss: 0.036243
+Train accuracy = 0.9962962962962963 
+
+p2 Block: 3 Iter: 90000. Loss: 0.010949
 Train accuracy = 1.0 
 
-p1 Block: 8 Test accuracy = 0.7289124668435013
-13:21:21 p1 Test accuracy = 0.7050397877984085
-Total accuracy: 0.5270557029177719
+p2 Block: 3 Test accuracy = 0.7220159151193634
+p2 Block: 4 Iter: 0. Loss: 4.548376
+Train accuracy = 0.7864197530864198 
+
+p2 Block: 4 Iter: 10000. Loss: 0.168747
+Train accuracy = 0.9123456790123456 
+
+p2 Block: 4 Iter: 20000. Loss: 0.177288
+Train accuracy = 0.9592592592592593 
+
+p2 Block: 4 Iter: 30000. Loss: 0.135742
+Train accuracy = 0.9765432098765432 
+
+p2 Block: 4 Iter: 40000. Loss: 0.129712
+Train accuracy = 0.9839506172839506 
+
+p2 Block: 4 Iter: 50000. Loss: 0.073573
+Train accuracy = 0.9925925925925926 
+
+p2 Block: 4 Iter: 60000. Loss: 0.037304
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 4 Iter: 70000. Loss: 0.015225
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 4 Iter: 80000. Loss: 0.021867
+Train accuracy = 0.9962962962962963 
+
+p2 Block: 4 Iter: 90000. Loss: 0.015912
+Train accuracy = 0.9975308641975309 
+
+p2 Block: 4 Test accuracy = 0.7259946949602122
+p2 Block: 5 Iter: 0. Loss: 1.709705
+Train accuracy = 0.36666666666666664 
+
+p2 Block: 5 Iter: 10000. Loss: 0.152234
+Train accuracy = 0.9444444444444444 
+
+p2 Block: 5 Iter: 20000. Loss: 0.139537
+Train accuracy = 0.9691358024691358 
+
+p2 Block: 5 Iter: 30000. Loss: 0.088785
+Train accuracy = 0.9814814814814815 
+
+p2 Block: 5 Iter: 40000. Loss: 0.037666
+Train accuracy = 0.9925925925925926 
+
+p2 Block: 5 Iter: 50000. Loss: 0.041998
+Train accuracy = 0.9962962962962963 
+
+p2 Block: 5 Iter: 60000. Loss: 0.057172
+Train accuracy = 0.9975308641975309 
+
+p2 Block: 5 Iter: 70000. Loss: 0.012889
+Train accuracy = 1.0 
+
+p2 Block: 5 Iter: 80000. Loss: 0.009444
+Train accuracy = 1.0 
+
+p2 Block: 5 Iter: 90000. Loss: 0.003974
+Train accuracy = 1.0 
+
+p2 Block: 5 Test accuracy = 0.7074270557029178
+p2 Block: 6 Iter: 0. Loss: 3.305041
+Train accuracy = 0.26296296296296295 
+
+p2 Block: 6 Iter: 10000. Loss: 0.218026
+Train accuracy = 0.8876543209876543 
+
+p2 Block: 6 Iter: 20000. Loss: 0.133485
+Train accuracy = 0.9506172839506173 
+
+p2 Block: 6 Iter: 30000. Loss: 0.113748
+Train accuracy = 0.9728395061728395 
+
+p2 Block: 6 Iter: 40000. Loss: 0.107551
+Train accuracy = 0.991358024691358 
+
+p2 Block: 6 Iter: 50000. Loss: 0.048979
+Train accuracy = 0.9938271604938271 
+
+p2 Block: 6 Iter: 60000. Loss: 0.064783
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 6 Iter: 70000. Loss: 0.044548
+Train accuracy = 1.0 
+
+p2 Block: 6 Iter: 80000. Loss: 0.028679
+Train accuracy = 1.0 
+
+p2 Block: 6 Iter: 90000. Loss: 0.023760
+Train accuracy = 1.0 
+
+p2 Block: 6 Test accuracy = 0.73342175066313
+p2 Block: 7 Iter: 0. Loss: 7.132812
+Train accuracy = 0.7765432098765432 
+
+p2 Block: 7 Iter: 10000. Loss: 0.387025
+Train accuracy = 0.8901234567901235 
+
+p2 Block: 7 Iter: 20000. Loss: 0.160678
+Train accuracy = 0.9469135802469136 
+
+p2 Block: 7 Iter: 30000. Loss: 0.157302
+Train accuracy = 0.9617283950617284 
+
+p2 Block: 7 Iter: 40000. Loss: 0.083431
+Train accuracy = 0.9753086419753086 
+
+p2 Block: 7 Iter: 50000. Loss: 0.036820
+Train accuracy = 0.980246913580247 
+
+p2 Block: 7 Iter: 60000. Loss: 0.029977
+Train accuracy = 0.9876543209876543 
+
+p2 Block: 7 Iter: 70000. Loss: 0.018714
+Train accuracy = 0.9938271604938271 
+
+p2 Block: 7 Iter: 80000. Loss: 0.024532
+Train accuracy = 0.9950617283950617 
+
+p2 Block: 7 Iter: 90000. Loss: 0.017028
+Train accuracy = 0.9975308641975309 
+
+p2 Block: 7 Test accuracy = 0.7397877984084881
+p2 Block: 8 Iter: 0. Loss: 29.233185
+Train accuracy = 0.21033210332103322 
+
+p2 Block: 8 Iter: 10000. Loss: 0.395074
+Train accuracy = 0.8339483394833949 
+
+p2 Block: 8 Iter: 20000. Loss: 0.374389
+Train accuracy = 0.8929889298892989 
+
+p2 Block: 8 Iter: 30000. Loss: 0.233936
+Train accuracy = 0.8991389913899139 
+
+p2 Block: 8 Iter: 40000. Loss: 0.235773
+Train accuracy = 0.906519065190652 
+
+p2 Block: 8 Iter: 50000. Loss: 0.234801
+Train accuracy = 0.9200492004920049 
+
+p2 Block: 8 Iter: 60000. Loss: 0.240163
+Train accuracy = 0.933579335793358 
+
+p2 Block: 8 Iter: 70000. Loss: 0.151476
+Train accuracy = 0.9348093480934809 
+
+p2 Block: 8 Iter: 80000. Loss: 0.132341
+Train accuracy = 0.933579335793358 
+
+p2 Block: 8 Iter: 90000. Loss: 0.122799
+Train accuracy = 0.939729397293973 
+
+p2 Block: 8 Test accuracy = 0.7137931034482758
+23:17:14 p2 Test accuracy = 0.7612732095490716
+22:40:54 p3 start
+p3 Block: 0 Iter: 0. Loss: 1.774924
+Train accuracy = 0.7716049382716049 
+
+p3 Block: 0 Iter: 10000. Loss: 0.265439
+Train accuracy = 0.9 
+
+p3 Block: 0 Iter: 20000. Loss: 0.169624
+Train accuracy = 0.9567901234567902 
+
+p3 Block: 0 Iter: 30000. Loss: 0.095959
+Train accuracy = 0.9827160493827161 
+
+p3 Block: 0 Iter: 40000. Loss: 0.072635
+Train accuracy = 0.9950617283950617 
+
+p3 Block: 0 Iter: 50000. Loss: 0.072954
+Train accuracy = 0.9975308641975309 
+
+p3 Block: 0 Iter: 60000. Loss: 0.031443
+Train accuracy = 0.9962962962962963 
+
+p3 Block: 0 Iter: 70000. Loss: 0.012660
+Train accuracy = 1.0 
+
+p3 Block: 0 Iter: 80000. Loss: 0.019175
+Train accuracy = 1.0 
+
+p3 Block: 0 Iter: 90000. Loss: 0.006969
+Train accuracy = 1.0 
+
+p3 Block: 0 Test accuracy = 0.7376657824933687
+p3 Block: 1 Iter: 0. Loss: 5.580417
+Train accuracy = 0.22962962962962963 
+
+p3 Block: 1 Iter: 10000. Loss: 0.298071
+Train accuracy = 0.8987654320987655 
+
+p3 Block: 1 Iter: 20000. Loss: 0.212795
+Train accuracy = 0.9308641975308642 
+
+p3 Block: 1 Iter: 30000. Loss: 0.120337
+Train accuracy = 0.9666666666666667 
+
+p3 Block: 1 Iter: 40000. Loss: 0.096987
+Train accuracy = 0.9765432098765432 
+
+p3 Block: 1 Iter: 50000. Loss: 0.086694
+Train accuracy = 0.9864197530864197 
+
+p3 Block: 1 Iter: 60000. Loss: 0.042154
+Train accuracy = 0.9888888888888889 
+
+p3 Block: 1 Iter: 70000. Loss: 0.051140
+Train accuracy = 0.9950617283950617 
+
+p3 Block: 1 Iter: 80000. Loss: 0.039172
+Train accuracy = 0.9987654320987654 
+
+p3 Block: 1 Iter: 90000. Loss: 0.017920
+Train accuracy = 1.0 
+
+p3 Block: 1 Test accuracy = 0.7427055702917772
+p3 Block: 2 Iter: 0. Loss: 2.589211
+Train accuracy = 0.7765432098765432 
+
+p3 Block: 2 Iter: 10000. Loss: 0.306413
+Train accuracy = 0.8925925925925926 
+
+p3 Block: 2 Iter: 20000. Loss: 0.180928
+Train accuracy = 0.9222222222222223 
+
+p3 Block: 2 Iter: 30000. Loss: 0.172347
+Train accuracy = 0.9691358024691358 
+
+p3 Block: 2 Iter: 40000. Loss: 0.085866
+Train accuracy = 0.980246913580247 
+
+p3 Block: 2 Iter: 50000. Loss: 0.115131
+Train accuracy = 0.9814814814814815 
+
+p3 Block: 2 Iter: 60000. Loss: 0.071041
+Train accuracy = 0.9864197530864197 
+
+p3 Block: 2 Iter: 70000. Loss: 0.105538
+Train accuracy = 0.9888888888888889 
+
+p3 Block: 2 Iter: 80000. Loss: 0.022642
+Train accuracy = 0.9925925925925926 
+
+p3 Block: 2 Iter: 90000. Loss: 0.040332
+Train accuracy = 0.991358024691358 
+
+p3 Block: 2 Test accuracy = 0.6862068965517242
+p3 Block: 3 Iter: 0. Loss: 29.901474
+Train accuracy = 0.23950617283950618 
+
+p3 Block: 3 Iter: 10000. Loss: 0.495974
+Train accuracy = 0.7901234567901234 
+
+p3 Block: 3 Iter: 20000. Loss: 0.530095
+Train accuracy = 0.8148148148148148 
+
+p3 Block: 3 Iter: 30000. Loss: 0.452418
+Train accuracy = 0.8469135802469135 
+
+p3 Block: 3 Iter: 40000. Loss: 0.390867
+Train accuracy = 0.8567901234567902 
+
+p3 Block: 3 Iter: 50000. Loss: 0.316398
+Train accuracy = 0.8666666666666667 
+
+p3 Block: 3 Iter: 60000. Loss: 0.270685
+Train accuracy = 0.8679012345679012 
+
+p3 Block: 3 Iter: 70000. Loss: 0.330905
+Train accuracy = 0.8691358024691358 
+
+p3 Block: 3 Iter: 80000. Loss: 0.332738
+Train accuracy = 0.8790123456790123 
+
+p3 Block: 3 Iter: 90000. Loss: 0.216855
+Train accuracy = 0.8802469135802469 
+
+p3 Block: 3 Test accuracy = 0.7198938992042441
+p3 Block: 4 Iter: 0. Loss: 0.636598
+Train accuracy = 0.7864197530864198 
+
+p3 Block: 4 Iter: 10000. Loss: 0.233585
+Train accuracy = 0.9074074074074074 
+
+p3 Block: 4 Iter: 20000. Loss: 0.243486
+Train accuracy = 0.9259259259259259 
+
+p3 Block: 4 Iter: 30000. Loss: 0.139194
+Train accuracy = 0.9506172839506173 
+
+p3 Block: 4 Iter: 40000. Loss: 0.146220
+Train accuracy = 0.9666666666666667 
+
+p3 Block: 4 Iter: 50000. Loss: 0.118559
+Train accuracy = 0.9827160493827161 
+
+p3 Block: 4 Iter: 60000. Loss: 0.090842
+Train accuracy = 0.9876543209876543 
+
+p3 Block: 4 Iter: 70000. Loss: 0.041963
+Train accuracy = 0.9901234567901235 
+
+p3 Block: 4 Iter: 80000. Loss: 0.052067
+Train accuracy = 0.9938271604938271 
+
+p3 Block: 4 Iter: 90000. Loss: 0.017451
+Train accuracy = 0.9938271604938271 
+
+p3 Block: 4 Test accuracy = 0.7305039787798409
+p3 Block: 5 Iter: 0. Loss: 3.971914
+Train accuracy = 0.7592592592592593 
+
+p3 Block: 5 Iter: 10000. Loss: 0.240381
+Train accuracy = 0.8987654320987655 
+
+p3 Block: 5 Iter: 20000. Loss: 0.187960
+Train accuracy = 0.9358024691358025 
+
+p3 Block: 5 Iter: 30000. Loss: 0.167456
+Train accuracy = 0.9617283950617284 
+
+p3 Block: 5 Iter: 40000. Loss: 0.126571
+Train accuracy = 0.9814814814814815 
+
+p3 Block: 5 Iter: 50000. Loss: 0.053955
+Train accuracy = 0.9901234567901235 
+
+p3 Block: 5 Iter: 60000. Loss: 0.048924
+Train accuracy = 0.991358024691358 
+
+p3 Block: 5 Iter: 70000. Loss: 0.038367
+Train accuracy = 0.9925925925925926 
+
+p3 Block: 5 Iter: 80000. Loss: 0.031425
+Train accuracy = 0.9950617283950617 
+
+p3 Block: 5 Iter: 90000. Loss: 0.018945
+Train accuracy = 1.0 
+
+p3 Block: 5 Test accuracy = 0.7087533156498673
+p3 Block: 6 Iter: 0. Loss: 14.563064
+Train accuracy = 0.2419753086419753 
+
+p3 Block: 6 Iter: 10000. Loss: 0.323242
+Train accuracy = 0.8691358024691358 
+
+p3 Block: 6 Iter: 20000. Loss: 0.206150
+Train accuracy = 0.9111111111111111 
+
+p3 Block: 6 Iter: 30000. Loss: 0.180106
+Train accuracy = 0.9567901234567902 
+
+p3 Block: 6 Iter: 40000. Loss: 0.095446
+Train accuracy = 0.9777777777777777 
+
+p3 Block: 6 Iter: 50000. Loss: 0.074381
+Train accuracy = 0.9925925925925926 
+
+p3 Block: 6 Iter: 60000. Loss: 0.051572
+Train accuracy = 0.9925925925925926 
+
+p3 Block: 6 Iter: 70000. Loss: 0.025873
+Train accuracy = 0.9962962962962963 
+
+p3 Block: 6 Iter: 80000. Loss: 0.030155
+Train accuracy = 0.9975308641975309 
+
+p3 Block: 6 Iter: 90000. Loss: 0.012064
+Train accuracy = 1.0 
+
+p3 Block: 6 Test accuracy = 0.7294429708222812
+p3 Block: 7 Iter: 0. Loss: 1.300996
+Train accuracy = 0.7753086419753087 
+
+p3 Block: 7 Iter: 10000. Loss: 0.223142
+Train accuracy = 0.9098765432098765 
+
+p3 Block: 7 Iter: 20000. Loss: 0.181264
+Train accuracy = 0.9728395061728395 
+
+p3 Block: 7 Iter: 30000. Loss: 0.125624
+Train accuracy = 0.9851851851851852 
+
+p3 Block: 7 Iter: 40000. Loss: 0.088531
+Train accuracy = 0.9864197530864197 
+
+p3 Block: 7 Iter: 50000. Loss: 0.053602
+Train accuracy = 0.9975308641975309 
+
+p3 Block: 7 Iter: 60000. Loss: 0.029819
+Train accuracy = 0.991358024691358 
+
+p3 Block: 7 Iter: 70000. Loss: 0.020649
+Train accuracy = 0.9975308641975309 
+
+p3 Block: 7 Iter: 80000. Loss: 0.009763
+Train accuracy = 1.0 
+
+p3 Block: 7 Iter: 90000. Loss: 0.008354
+Train accuracy = 1.0 
+
+p3 Block: 7 Test accuracy = 0.7374005305039788
+p3 Block: 8 Iter: 0. Loss: 0.860171
+Train accuracy = 0.7503075030750308 
+
+p3 Block: 8 Iter: 10000. Loss: 0.168909
+Train accuracy = 0.915129151291513 
+
+p3 Block: 8 Iter: 20000. Loss: 0.111741
+Train accuracy = 0.984009840098401 
+
+p3 Block: 8 Iter: 30000. Loss: 0.051530
+Train accuracy = 0.993849938499385 
+
+p3 Block: 8 Iter: 40000. Loss: 0.041687
+Train accuracy = 0.996309963099631 
+
+p3 Block: 8 Iter: 50000. Loss: 0.024613
+Train accuracy = 1.0 
+
+p3 Block: 8 Iter: 60000. Loss: 0.016727
+Train accuracy = 1.0 
+
+p3 Block: 8 Iter: 70000. Loss: 0.007467
+Train accuracy = 1.0 
+
+p3 Block: 8 Iter: 80000. Loss: 0.005627
+Train accuracy = 1.0 
+
+p3 Block: 8 Iter: 90000. Loss: 0.006162
+Train accuracy = 1.0 
+
+p3 Block: 8 Test accuracy = 0.743236074270557
+23:17:19 p3 Test accuracy = 0.8143236074270557
+22:40:54 p0 start
+p0 Block: 0 Iter: 0. Loss: 1.740355
+Train accuracy = 0.7419753086419754 
+
+p0 Block: 0 Iter: 10000. Loss: 0.186688
+Train accuracy = 0.9518518518518518 
+
+p0 Block: 0 Iter: 20000. Loss: 0.116221
+Train accuracy = 0.9851851851851852 
+
+p0 Block: 0 Iter: 30000. Loss: 0.078036
+Train accuracy = 0.991358024691358 
+
+p0 Block: 0 Iter: 40000. Loss: 0.050739
+Train accuracy = 0.9975308641975309 
+
+p0 Block: 0 Iter: 50000. Loss: 0.032134
+Train accuracy = 1.0 
+
+p0 Block: 0 Iter: 60000. Loss: 0.015053
+Train accuracy = 1.0 
+
+p0 Block: 0 Iter: 70000. Loss: 0.010909
+Train accuracy = 1.0 
+
+p0 Block: 0 Iter: 80000. Loss: 0.006866
+Train accuracy = 1.0 
+
+p0 Block: 0 Iter: 90000. Loss: 0.003763
+Train accuracy = 1.0 
+
+p0 Block: 0 Test accuracy = 0.7424403183023872
+p0 Block: 1 Iter: 0. Loss: 1.609449
+Train accuracy = 0.7530864197530864 
+
+p0 Block: 1 Iter: 10000. Loss: 0.326796
+Train accuracy = 0.8580246913580247 
+
+p0 Block: 1 Iter: 20000. Loss: 0.256653
+Train accuracy = 0.9160493827160494 
+
+p0 Block: 1 Iter: 30000. Loss: 0.145393
+Train accuracy = 0.9481481481481482 
+
+p0 Block: 1 Iter: 40000. Loss: 0.141207
+Train accuracy = 0.9580246913580247 
+
+p0 Block: 1 Iter: 50000. Loss: 0.116892
+Train accuracy = 0.9703703703703703 
+
+p0 Block: 1 Iter: 60000. Loss: 0.099423
+Train accuracy = 0.9753086419753086 
+
+p0 Block: 1 Iter: 70000. Loss: 0.077437
+Train accuracy = 0.9790123456790123 
+
+p0 Block: 1 Iter: 80000. Loss: 0.045622
+Train accuracy = 0.9839506172839506 
+
+p0 Block: 1 Iter: 90000. Loss: 0.061917
+Train accuracy = 0.9839506172839506 
+
+p0 Block: 1 Test accuracy = 0.7339522546419098
+p0 Block: 2 Iter: 0. Loss: 39.796196
+Train accuracy = 0.2716049382716049 
+
+p0 Block: 2 Iter: 10000. Loss: 0.491000
+Train accuracy = 0.762962962962963 
+
+p0 Block: 2 Iter: 20000. Loss: 0.449186
+Train accuracy = 0.7641975308641975 
+
+p0 Block: 2 Iter: 30000. Loss: 0.433943
+Train accuracy = 0.8111111111111111 
+
+p0 Block: 2 Iter: 40000. Loss: 0.359697
+Train accuracy = 0.8209876543209876 
+
+p0 Block: 2 Iter: 50000. Loss: 0.313248
+Train accuracy = 0.8580246913580247 
+
+p0 Block: 2 Iter: 60000. Loss: 0.260969
+Train accuracy = 0.8716049382716049 
+
+p0 Block: 2 Iter: 70000. Loss: 0.291154
+Train accuracy = 0.8740740740740741 
+
+p0 Block: 2 Iter: 80000. Loss: 0.256832
+Train accuracy = 0.8864197530864197 
+
+p0 Block: 2 Iter: 90000. Loss: 0.236021
+Train accuracy = 0.8925925925925926 
+
+p0 Block: 2 Test accuracy = 0.8206896551724138
+p0 Block: 3 Iter: 0. Loss: 4.053017
+Train accuracy = 0.7283950617283951 
+
+p0 Block: 3 Iter: 10000. Loss: 0.383701
+Train accuracy = 0.8777777777777778 
+
+p0 Block: 3 Iter: 20000. Loss: 0.234739
+Train accuracy = 0.9111111111111111 
+
+p0 Block: 3 Iter: 30000. Loss: 0.219886
+Train accuracy = 0.9444444444444444 
+
+p0 Block: 3 Iter: 40000. Loss: 0.165474
+Train accuracy = 0.9691358024691358 
+
+p0 Block: 3 Iter: 50000. Loss: 0.080216
+Train accuracy = 0.9851851851851852 
+
+p0 Block: 3 Iter: 60000. Loss: 0.086296
+Train accuracy = 0.9888888888888889 
+
+p0 Block: 3 Iter: 70000. Loss: 0.061779
+Train accuracy = 0.9987654320987654 
+
+p0 Block: 3 Iter: 80000. Loss: 0.030223
+Train accuracy = 0.9987654320987654 
+
+p0 Block: 3 Iter: 90000. Loss: 0.019598
+Train accuracy = 0.9987654320987654 
+
+p0 Block: 3 Test accuracy = 0.7748010610079575
+p0 Block: 4 Iter: 0. Loss: 7.655906
+Train accuracy = 0.2679012345679012 
+
+p0 Block: 4 Iter: 10000. Loss: 0.313073
+Train accuracy = 0.8938271604938272 
+
+p0 Block: 4 Iter: 20000. Loss: 0.209851
+Train accuracy = 0.9358024691358025 
+
+p0 Block: 4 Iter: 30000. Loss: 0.160407
+Train accuracy = 0.9444444444444444 
+
+p0 Block: 4 Iter: 40000. Loss: 0.116780
+Train accuracy = 0.9604938271604938 
+
+p0 Block: 4 Iter: 50000. Loss: 0.085929
+Train accuracy = 0.9777777777777777 
+
+p0 Block: 4 Iter: 60000. Loss: 0.114802
+Train accuracy = 0.9851851851851852 
+
+p0 Block: 4 Iter: 70000. Loss: 0.038306
+Train accuracy = 0.991358024691358 
+
+p0 Block: 4 Iter: 80000. Loss: 0.046424
+Train accuracy = 0.9938271604938271 
+
+p0 Block: 4 Iter: 90000. Loss: 0.046524
+Train accuracy = 0.9950617283950617 
+
+p0 Block: 4 Test accuracy = 0.7673740053050397
+p0 Block: 5 Iter: 0. Loss: 3.283208
+Train accuracy = 0.7604938271604939 
+
+p0 Block: 5 Iter: 10000. Loss: 0.293383
+Train accuracy = 0.9098765432098765 
+
+p0 Block: 5 Iter: 20000. Loss: 0.190249
+Train accuracy = 0.9444444444444444 
+
+p0 Block: 5 Iter: 30000. Loss: 0.101101
+Train accuracy = 0.9629629629629629 
+
+p0 Block: 5 Iter: 40000. Loss: 0.090944
+Train accuracy = 0.9827160493827161 
+
+p0 Block: 5 Iter: 50000. Loss: 0.062384
+Train accuracy = 0.9888888888888889 
+
+p0 Block: 5 Iter: 60000. Loss: 0.074215
+Train accuracy = 0.9987654320987654 
+
+p0 Block: 5 Iter: 70000. Loss: 0.025299
+Train accuracy = 1.0 
+
+p0 Block: 5 Iter: 80000. Loss: 0.026503
+Train accuracy = 1.0 
+
+p0 Block: 5 Iter: 90000. Loss: 0.010395
+Train accuracy = 1.0 
+
+p0 Block: 5 Test accuracy = 0.7419098143236075
+p0 Block: 6 Iter: 0. Loss: 18.257113
+Train accuracy = 0.26666666666666666 
+
+p0 Block: 6 Iter: 10000. Loss: 0.344169
+Train accuracy = 0.8654320987654321 
+
+p0 Block: 6 Iter: 20000. Loss: 0.224466
+Train accuracy = 0.9209876543209876 
+
+p0 Block: 6 Iter: 30000. Loss: 0.215069
+Train accuracy = 0.9604938271604938 
+
+p0 Block: 6 Iter: 40000. Loss: 0.130902
+Train accuracy = 0.9592592592592593 
+
+p0 Block: 6 Iter: 50000. Loss: 0.117036
+Train accuracy = 0.9679012345679012 
+
+p0 Block: 6 Iter: 60000. Loss: 0.132526
+Train accuracy = 0.9753086419753086 
+
+p0 Block: 6 Iter: 70000. Loss: 0.068292
+Train accuracy = 0.9790123456790123 
+
+p0 Block: 6 Iter: 80000. Loss: 0.076232
+Train accuracy = 0.9839506172839506 
+
+p0 Block: 6 Iter: 90000. Loss: 0.054641
+Train accuracy = 0.9950617283950617 
+
+p0 Block: 6 Test accuracy = 0.7007957559681698
+p0 Block: 7 Iter: 0. Loss: 0.911479
+Train accuracy = 0.7098765432098766 
+
+p0 Block: 7 Iter: 10000. Loss: 0.302632
+Train accuracy = 0.8827160493827161 
+
+p0 Block: 7 Iter: 20000. Loss: 0.233629
+Train accuracy = 0.9629629629629629 
+
+p0 Block: 7 Iter: 30000. Loss: 0.100514
+Train accuracy = 0.9790123456790123 
+
+p0 Block: 7 Iter: 40000. Loss: 0.092949
+Train accuracy = 0.9888888888888889 
+
+p0 Block: 7 Iter: 50000. Loss: 0.043871
+Train accuracy = 0.9925925925925926 
+
+p0 Block: 7 Iter: 60000. Loss: 0.053735
+Train accuracy = 1.0 
+
+p0 Block: 7 Iter: 70000. Loss: 0.028365
+Train accuracy = 1.0 
+
+p0 Block: 7 Iter: 80000. Loss: 0.022229
+Train accuracy = 1.0 
+
+p0 Block: 7 Iter: 90000. Loss: 0.011363
+Train accuracy = 1.0 
+
+p0 Block: 7 Test accuracy = 0.7885941644562334
+p0 Block: 8 Iter: 0. Loss: 22.722382
+Train accuracy = 0.26691266912669126 
+
+p0 Block: 8 Iter: 10000. Loss: 0.550887
+Train accuracy = 0.7945879458794588 
+
+p0 Block: 8 Iter: 20000. Loss: 0.345000
+Train accuracy = 0.8130381303813038 
+
+p0 Block: 8 Iter: 30000. Loss: 0.490226
+Train accuracy = 0.8265682656826568 
+
+p0 Block: 8 Iter: 40000. Loss: 0.358423
+Train accuracy = 0.8683886838868389 
+
+p0 Block: 8 Iter: 50000. Loss: 0.344322
+Train accuracy = 0.897908979089791 
+
+p0 Block: 8 Iter: 60000. Loss: 0.231214
+Train accuracy = 0.8929889298892989 
+
+p0 Block: 8 Iter: 70000. Loss: 0.230130
+Train accuracy = 0.9003690036900369 
+
+p0 Block: 8 Iter: 80000. Loss: 0.193760
+Train accuracy = 0.9052890528905289 
+
+p0 Block: 8 Iter: 90000. Loss: 0.223656
+Train accuracy = 0.922509225092251 
+
+p0 Block: 8 Test accuracy = 0.726790450928382
+23:17:24 p0 Test accuracy = 0.7612732095490716
+Total accuracy: 0.5315649867374005
