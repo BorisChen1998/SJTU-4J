@@ -82,11 +82,13 @@ def p(label0, label1, result_raw, pid):
     
     print(strftime("%H:%M:%S", localtime()), "p%d start" % (pid))
     pre_all = []
+    order = np.array(range(x_train.shape[0]))
+    np.random.shuffle(order)
     for block in range(block_num):
         sess.run(tf.global_variables_initializer())
-        block_id = random_batch(x_train.shape[0], x_train.shape[0] // block_num)
-        x_block = x_train[block_id]
-        y_block = y_train[block_id]
+        block_id = next_batch(x_train.shape[0], block_num, block)
+        x_block = x_train[order[block_id]]
+        y_block = y_train[order[block_id]]
         for it in range(max_iter):
             rnd_ind = random_batch(x_block.shape[0], batch_size)
             _, train_loss = sess.run([train_step, loss], feed_dict={xs: x_block[rnd_ind], ys: y_block[rnd_ind]})
