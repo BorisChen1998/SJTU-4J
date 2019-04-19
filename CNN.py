@@ -28,10 +28,9 @@ def max_pool_2x2(x):
 
 def print_confusion_matrix(pre, true):
     confusion_matrix = [ [0 for j in range(4)] for i in range(4) ]
-    print(confusion_matrix)
     for i in range(pre.shape[0]):
         confusion_matrix[true[i][0]][pre[i][0]] += 1
-    print('Confusion Matrix:\n')
+    print('\nConfusion Matrix:')
     for i in range(4):
         print(confusion_matrix[i])
     print('\n')
