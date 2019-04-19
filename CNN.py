@@ -5,20 +5,11 @@ from time import strftime, localtime
 np.random.seed(1)
 
 batch_size = 64
-batch_idx = 0
 lr = 0.0001
 
-def next_batch(l, size):
-    global batch_idx
-    batch = None
-    if batch_idx+size<=l:
-        batch = np.arange(batch_idx, batch_idx+size)
-        batch_idx += size
-    else:
-        batch = np.concatenate((np.arange(batch_idx, l),np.arange(0, batch_idx+size-l)))
-        batch_idx = batch_idx+size-l
-    np.random.shuffle(batch)
-    return batch
+def next_batch(l, batch_size):
+    index = np.arange(l)
+    return np.random.permutation(index)[:batch_size]
 
 def weight_variable(shape):
     initial = tf.truncated_normal(shape,stddev=0.1)
@@ -34,6 +25,16 @@ def conv2d(x,W):
 
 def max_pool_2x2(x):
     return tf.nn.max_pool(x,ksize=[1,2,2,1],strides=[1,2,2,1],padding='SAME')
+
+def print_confusion_matrix(pre, true):
+    confusion_matrix = [ [0 for j in range(4)] for i in range(4) ]
+    print(confusion_matrix)
+    for i in range(pre.shape[0]):
+        confusion_matrix[true[i][0]][pre[i][0]] += 1
+    print('Confusion Matrix:\n')
+    for i in range(4):
+        print(confusion_matrix[i])
+    print('\n')
 
 def main():
     data = scipy.io.loadmat('data.mat')
@@ -78,6 +79,7 @@ def main():
     W_fc2 = weight_variable([250,4])
     b_fc2 = bias_variable([4])
     output = tf.matmul(h_fc1_drop,W_fc2)+b_fc2
+    sigmoid_output = tf.nn.sigmoid(output)
 
     loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=output, labels=ys))
     train_step = tf.train.AdamOptimizer(lr).minimize(loss)
@@ -86,7 +88,7 @@ def main():
     sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
     sess.run(tf.global_variables_initializer())
     print(strftime("%H:%M:%S", localtime()), "start")
-    for it in range(100000):
+    for it in range(25000):
         rnd_ind = next_batch(x_train.shape[0], batch_size)
         # c,p = sess.run([h_conv2, h_pool2], feed_dict={xs: x_train[rnd_ind], ys: y_train[rnd_ind], rate:0.5})
         # print(c.shape, p.shape)
@@ -94,17 +96,9 @@ def main():
 
         if it % 500 == 0:
             print("Iter: %d. Loss: %f" % (it, train_loss))
-            pre_raw = sess.run(output, feed_dict={xs: x_train, keep_prob:1})
-            pre = np.zeros([pre_raw.shape[0], 1])
-            for i in range(pre_raw.shape[0]):
-                ind = np.argmax(pre_raw[i])
-                pre[i][0] = ind
-            
-            acc = np.mean(pre == y_train_raw)
-            print("Train accuracy =", acc)
 
-            pre_raw = sess.run(output, feed_dict={xs: x_test, keep_prob:1})
-            pre = np.zeros([pre_raw.shape[0], 1])
+            pre_raw = sess.run(sigmoid_output, feed_dict={xs: x_test, keep_prob:1})
+            pre = np.zeros([pre_raw.shape[0], 1], dtype=np.int64)
             for i in range(pre_raw.shape[0]):
                 ind = np.argmax(pre_raw[i])
                 pre[i][0] = ind
@@ -112,14 +106,15 @@ def main():
             acc = np.mean(pre == y_test_raw)
             print("Test accuracy =", acc, '\n')
 
-    pre_raw = sess.run(output, feed_dict={xs: x_test, keep_prob:1})
-    pre = np.zeros([pre_raw.shape[0], 1])
+    pre_raw = sess.run(sigmoid_output, feed_dict={xs: x_test, keep_prob:1})
+    pre = np.zeros([pre_raw.shape[0], 1], dtype=np.int64)
     for i in range(pre_raw.shape[0]):
         ind = np.argmax(pre_raw[i])
         pre[i][0] = ind
     
     acc = np.mean(pre == y_test_raw)
     print(strftime("%H:%M:%S", localtime()), "Test accuracy =", acc)
+    print_confusion_matrix(pre, y_test_raw)
 
 if __name__ == '__main__':
     main()
