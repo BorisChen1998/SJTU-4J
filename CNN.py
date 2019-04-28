@@ -53,23 +53,23 @@ def main():
     ys = tf.placeholder(tf.float32, [None, 4])
     keep_prob = tf.placeholder(tf.float32) # rate = 1 - keep_prob
 
-    xs_exchange = tf.reshape(xs,[-1,31,10,1]) # size: 31*10*1
+    xs_exchange = tf.reshape(xs,[-1,62,5,1]) # size: 31*10*1
 
     #conv1 layer
     w_conv1 = weight_variable([5,5,1,16])
     b_conv1 = bias_variable([16])
-    h_conv1 = tf.nn.relu(conv2d(xs_exchange,w_conv1)+b_conv1) # output size: 31*10*16
-    h_pool1 = max_pool_2x2(h_conv1) # output size: 16*5*16
+    h_conv1 = tf.nn.relu(conv2d(xs_exchange,w_conv1)+b_conv1) # output size: 62*5*16
+    h_pool1 = max_pool_2x2(h_conv1) # output size: 31*3*16
 
     #conv2 layer
     w_conv2 = weight_variable([5,5,16,32])
     b_conv2 = bias_variable([32])
-    h_conv2 = tf.nn.relu(conv2d(h_pool1,w_conv2)+b_conv2) # output size: 16*5*32
-    h_pool2 = max_pool_2x2(h_conv2) # output size: 8*3*32
+    h_conv2 = tf.nn.relu(conv2d(h_pool1,w_conv2)+b_conv2) # output size: 31*3*32
+    h_pool2 = max_pool_2x2(h_conv2) # output size: 16*2*32
 
     #fc1 layer
-    h_pool2_flat = tf.reshape(h_pool2,[-1,8*3*32])
-    W_fc1 = weight_variable([8*3*32,250])
+    h_pool2_flat = tf.reshape(h_pool2,[-1,16*2*32])
+    W_fc1 = weight_variable([16*2*32,250])
     b_fc1 = bias_variable([250])
     h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat,W_fc1)+b_fc1)
     h_fc1_drop = tf.nn.dropout(h_fc1,keep_prob)

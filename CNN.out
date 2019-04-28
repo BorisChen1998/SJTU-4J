@@ -1,158 +1,158 @@
-11:18:04 start
-Iter: 0. Loss: 11.127391
-Test accuracy = 0.3310344827586207 
+16:41:25 start
+Iter: 0. Loss: 15.570122
+Test accuracy = 0.2103448275862069 
 
-Iter: 500. Loss: 0.557655
-Test accuracy = 0.3442970822281167 
+Iter: 500. Loss: 0.579322
+Test accuracy = 0.2793103448275862 
 
-Iter: 1000. Loss: 0.549721
-Test accuracy = 0.3814323607427056 
+Iter: 1000. Loss: 0.565825
+Test accuracy = 0.3689655172413793 
 
-Iter: 1500. Loss: 0.557064
-Test accuracy = 0.3721485411140584 
+Iter: 1500. Loss: 0.573696
+Test accuracy = 0.41273209549071616 
 
-Iter: 2000. Loss: 0.558273
-Test accuracy = 0.35119363395225467 
+Iter: 2000. Loss: 0.561205
+Test accuracy = 0.4326259946949602 
 
-Iter: 2500. Loss: 0.568012
-Test accuracy = 0.3631299734748011 
+Iter: 2500. Loss: 0.551499
+Test accuracy = 0.4559681697612732 
 
-Iter: 3000. Loss: 0.524561
-Test accuracy = 0.47029177718832893 
+Iter: 3000. Loss: 0.549916
+Test accuracy = 0.4790450928381963 
 
-Iter: 3500. Loss: 0.536446
-Test accuracy = 0.46047745358090186 
+Iter: 3500. Loss: 0.529088
+Test accuracy = 0.48647214854111404 
 
-Iter: 4000. Loss: 0.553873
-Test accuracy = 0.43050397877984087 
+Iter: 4000. Loss: 0.534932
+Test accuracy = 0.5225464190981433 
 
-Iter: 4500. Loss: 0.511132
-Test accuracy = 0.4954907161803713 
+Iter: 4500. Loss: 0.504670
+Test accuracy = 0.5442970822281167 
 
-Iter: 5000. Loss: 0.525841
-Test accuracy = 0.5013262599469496 
+Iter: 5000. Loss: 0.480810
+Test accuracy = 0.536604774535809 
 
-Iter: 5500. Loss: 0.512212
-Test accuracy = 0.5241379310344828 
+Iter: 5500. Loss: 0.472114
+Test accuracy = 0.5538461538461539 
 
-Iter: 6000. Loss: 0.470853
-Test accuracy = 0.5251989389920424 
+Iter: 6000. Loss: 0.476919
+Test accuracy = 0.5053050397877984 
 
-Iter: 6500. Loss: 0.454161
-Test accuracy = 0.49496021220159153 
+Iter: 6500. Loss: 0.405982
+Test accuracy = 0.6193633952254642 
 
-Iter: 7000. Loss: 0.460105
-Test accuracy = 0.4782493368700265 
+Iter: 7000. Loss: 0.390746
+Test accuracy = 0.5538461538461539 
 
-Iter: 7500. Loss: 0.380289
-Test accuracy = 0.4251989389920424 
+Iter: 7500. Loss: 0.352949
+Test accuracy = 0.5636604774535809 
 
-Iter: 8000. Loss: 0.413047
-Test accuracy = 0.5607427055702918 
+Iter: 8000. Loss: 0.370430
+Test accuracy = 0.6363395225464191 
 
-Iter: 8500. Loss: 0.393477
-Test accuracy = 0.5859416445623342 
+Iter: 8500. Loss: 0.383428
+Test accuracy = 0.6588859416445624 
 
-Iter: 9000. Loss: 0.384858
-Test accuracy = 0.5387267904509284 
+Iter: 9000. Loss: 0.330906
+Test accuracy = 0.6384615384615384 
 
-Iter: 9500. Loss: 0.380083
-Test accuracy = 0.5175066312997347 
+Iter: 9500. Loss: 0.359126
+Test accuracy = 0.5846153846153846 
 
-Iter: 10000. Loss: 0.363267
-Test accuracy = 0.5710875331564986 
+Iter: 10000. Loss: 0.349158
+Test accuracy = 0.6472148541114059 
 
-Iter: 10500. Loss: 0.345857
-Test accuracy = 0.570026525198939 
+Iter: 10500. Loss: 0.340408
+Test accuracy = 0.6692307692307692 
 
-Iter: 11000. Loss: 0.357802
-Test accuracy = 0.5413793103448276 
-
-Iter: 11500. Loss: 0.296935
-Test accuracy = 0.6010610079575597 
-
-Iter: 12000. Loss: 0.279880
-Test accuracy = 0.5358090185676393 
-
-Iter: 12500. Loss: 0.261124
-Test accuracy = 0.6254641909814324 
-
-Iter: 13000. Loss: 0.246787
-Test accuracy = 0.5779840848806366 
-
-Iter: 13500. Loss: 0.238617
-Test accuracy = 0.5954907161803713 
-
-Iter: 14000. Loss: 0.231131
-Test accuracy = 0.5907161803713528 
-
-Iter: 14500. Loss: 0.261708
-Test accuracy = 0.6 
-
-Iter: 15000. Loss: 0.234332
-Test accuracy = 0.5535809018567639 
-
-Iter: 15500. Loss: 0.186890
-Test accuracy = 0.5986737400530504 
-
-Iter: 16000. Loss: 0.146487
-Test accuracy = 0.5809018567639257 
-
-Iter: 16500. Loss: 0.154631
-Test accuracy = 0.5864721485411141 
-
-Iter: 17000. Loss: 0.144945
-Test accuracy = 0.5278514588859416 
-
-Iter: 17500. Loss: 0.107444
-Test accuracy = 0.5771883289124669 
-
-Iter: 18000. Loss: 0.182966
-Test accuracy = 0.5938992042440319 
-
-Iter: 18500. Loss: 0.140728
-Test accuracy = 0.5925729442970822 
-
-Iter: 19000. Loss: 0.107792
-Test accuracy = 0.5763925729442971 
-
-Iter: 19500. Loss: 0.102949
-Test accuracy = 0.5970822281167109 
-
-Iter: 20000. Loss: 0.086861
-Test accuracy = 0.5795755968169761 
-
-Iter: 20500. Loss: 0.077439
-Test accuracy = 0.5811671087533157 
-
-Iter: 21000. Loss: 0.091739
+Iter: 11000. Loss: 0.289776
 Test accuracy = 0.5989389920424403 
 
-Iter: 21500. Loss: 0.093692
-Test accuracy = 0.5822281167108754 
+Iter: 11500. Loss: 0.262008
+Test accuracy = 0.6721485411140583 
 
-Iter: 22000. Loss: 0.076239
-Test accuracy = 0.5838196286472148 
+Iter: 12000. Loss: 0.266847
+Test accuracy = 0.6082228116710875 
 
-Iter: 22500. Loss: 0.064085
-Test accuracy = 0.5694960212201592 
+Iter: 12500. Loss: 0.228932
+Test accuracy = 0.6628647214854111 
 
-Iter: 23000. Loss: 0.068162
-Test accuracy = 0.5809018567639257 
+Iter: 13000. Loss: 0.175715
+Test accuracy = 0.6114058355437666 
 
-Iter: 23500. Loss: 0.061097
-Test accuracy = 0.6026525198938992 
+Iter: 13500. Loss: 0.229256
+Test accuracy = 0.6488063660477453 
 
-Iter: 24000. Loss: 0.046158
-Test accuracy = 0.583554376657825 
+Iter: 14000. Loss: 0.201530
+Test accuracy = 0.656763925729443 
 
-Iter: 24500. Loss: 0.093735
-Test accuracy = 0.5811671087533157 
+Iter: 14500. Loss: 0.201308
+Test accuracy = 0.6392572944297082 
 
-11:33:41 Test accuracy = 0.5230769230769231
+Iter: 15000. Loss: 0.197918
+Test accuracy = 0.6517241379310345 
+
+Iter: 15500. Loss: 0.131536
+Test accuracy = 0.6461538461538462 
+
+Iter: 16000. Loss: 0.155342
+Test accuracy = 0.656763925729443 
+
+Iter: 16500. Loss: 0.166211
+Test accuracy = 0.6572944297082228 
+
+Iter: 17000. Loss: 0.172713
+Test accuracy = 0.63342175066313 
+
+Iter: 17500. Loss: 0.149452
+Test accuracy = 0.629708222811671 
+
+Iter: 18000. Loss: 0.136775
+Test accuracy = 0.649867374005305 
+
+Iter: 18500. Loss: 0.125477
+Test accuracy = 0.6358090185676393 
+
+Iter: 19000. Loss: 0.104530
+Test accuracy = 0.613262599469496 
+
+Iter: 19500. Loss: 0.109338
+Test accuracy = 0.6663129973474801 
+
+Iter: 20000. Loss: 0.122585
+Test accuracy = 0.6116710875331565 
+
+Iter: 20500. Loss: 0.128245
+Test accuracy = 0.6827586206896552 
+
+Iter: 21000. Loss: 0.092533
+Test accuracy = 0.6636604774535809 
+
+Iter: 21500. Loss: 0.088719
+Test accuracy = 0.6583554376657825 
+
+Iter: 22000. Loss: 0.102263
+Test accuracy = 0.6671087533156499 
+
+Iter: 22500. Loss: 0.111965
+Test accuracy = 0.6586206896551724 
+
+Iter: 23000. Loss: 0.069601
+Test accuracy = 0.6315649867374006 
+
+Iter: 23500. Loss: 0.127232
+Test accuracy = 0.6482758620689655 
+
+Iter: 24000. Loss: 0.059296
+Test accuracy = 0.6663129973474801 
+
+Iter: 24500. Loss: 0.089874
+Test accuracy = 0.6774535809018568 
+
+16:54:21 Test accuracy = 0.6307692307692307
 
 Confusion Matrix:
-[229, 153, 106, 435]
-[7, 776, 196, 269]
-[98, 78, 290, 327]
-[56, 34, 39, 677]
+[388, 93, 81, 361]
+[0, 942, 139, 167]
+[69, 148, 304, 272]
+[28, 0, 34, 744]
